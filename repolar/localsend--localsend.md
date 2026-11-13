@@ -114,4 +114,4 @@ localsend-cli send --to "Cute Tomato" --text "https://localsend.org"
 
 ---
 
-*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki [Günün Reposu g02](../bolumler/gunun-reposu-g02.md) videosu için hazırlandı: https://www.youtube.com/watch?v=1IylBcEQ17w. Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
+*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki Günün Reposu g02 videosu için hazırlandı: https://www.youtube.com/watch?v=1IylBcEQ17w. Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*

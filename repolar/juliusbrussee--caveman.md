@@ -110,4 +110,4 @@ CLI varsayılan olarak kullanım istatistiği gönderir (çalışan komutlar, to
 
 ---
 
-*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki [Günün Reposu g01](../bolumler/gunun-reposu-g01.md) videosu için hazırlandı: https://www.youtube.com/watch?v=mjaNUVKMbwQ. Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
+*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki Günün Reposu g01 videosu için hazırlandı: https://www.youtube.com/watch?v=mjaNUVKMbwQ. Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*

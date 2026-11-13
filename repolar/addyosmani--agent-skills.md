@@ -104,4 +104,4 @@ Komut vermeden de çalışır: API tasarlarken `api-and-interface-design`, aray�
 
 ---
 
-*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki [trend Short t2026-11-12-2](../bolumler/trend-short-t2026-11-12-2.md) videosu için hazırlandı (yakında — 13 Kas 14:00). Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
+*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki trend Short t2026-11-12-2 videosu için hazırlandı (yakında — 13 Kas 14:00). Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*

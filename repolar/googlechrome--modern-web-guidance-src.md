@@ -119,4 +119,4 @@ npx modern-web-guidance@latest legacy-scan .
 
 ---
 
-*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki [trend Short t2026-11-12-3](../bolumler/trend-short-t2026-11-12-3.md) videosu için hazırlandı (yakında — 13 Kas 16:30). Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
+*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki trend Short t2026-11-12-3 videosu için hazırlandı (yakında — 13 Kas 16:30). Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
