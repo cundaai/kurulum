@@ -1,6 +1,6 @@
 # Kurulum ve örnekler — Cunda AI
 
-[Cunda AI](https://cunda.ai) hazırlar: [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) YouTube kanalında anlatılan GitHub repolarının **Türkçe kurulum ve ilk örnek belgeleri**. Her videonun açıklamasındaki "Kurulum ve örnekler" bağlantısı buraya gelir.
+[Cunda AI](https://cunda.ai) hazırlar: [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) YouTube kanalında anlatılan GitHub repolarının **Türkçe kurulum ve ilk örnek belgeleri**. Her videonun açıklamasındaki "Kurulum ve örnekler" bağlantısı buraya gelir. Her gün kısa videolar Instagram'da: [@haftaninpopulerrepolari](https://www.instagram.com/haftaninpopulerrepolari/).
 
 ## Nasıl kullanılır
 
