@@ -61,13 +61,13 @@
 
 ### Günün Reposu g04 — floci-io/floci · yakında — 14 Kas 12:30 · [kurulum](repolar/floci-io--floci.md)
 
-*Günün Reposu: floci — AWS'nin bedava yerel kopyası*
+*Günün Reposu: floci — AWS'in bedava yerel kopyası*
 
 | # | Repo | Belge | Özet |
 |---|---|---|---|
 | 1 | [floci-io/floci](https://github.com/floci-io/floci) | [kurulum](repolar/floci-io--floci.md) | Hesap ve token istemeyen ücretsiz yerel AWS emülatörü; AWS SDK, CLI ve Terraform'u localhost:4566'ya yöneltirsin. |
 
-### Trend Short t2026-11-12-3 — GoogleChrome/modern-web-guidance-src · yakında — 13 Kas 16:30 · [kurulum](repolar/googlechrome--modern-web-guidance-src.md)
+### Trend Short t2026-11-12-3 — GoogleChrome/modern-web-guidance-src · [video](https://www.youtube.com/shorts/1J8TwM9Hk5E) · [kurulum](repolar/googlechrome--modern-web-guidance-src.md)
 
 *modern-web-guidance-src: Agent'a güncel web platformu bilgisi, skill olarak*
 
@@ -75,7 +75,7 @@
 |---|---|---|---|
 | 1 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | [kurulum](repolar/googlechrome--modern-web-guidance-src.md) | Chrome, Edge, Firefox ve MDN ekiplerinin coding agent'lara güncel web platformu pratiklerini öğreten skill setinin kaynak deposu. |
 
-### Trend Short t2026-11-12-2 — addyosmani/agent-skills · yakında — 13 Kas 14:00 · [kurulum](repolar/addyosmani--agent-skills.md)
+### Trend Short t2026-11-12-2 — addyosmani/agent-skills · [video](https://www.youtube.com/shorts/5HtVKHmO2Fw) · [kurulum](repolar/addyosmani--agent-skills.md)
 
 *agent-skills: Coding agent'a kıdemli mühendis disiplini*
 
@@ -83,7 +83,7 @@
 |---|---|---|---|
 | 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [kurulum](repolar/addyosmani--agent-skills.md) | Addy Osmani'nin coding agent'lara spec, plan, test, review ve ship disiplini kazandıran 25 skill ve 9 slash komutluk paketi. |
 
-### Günün Reposu g03 — homeassistant-ai/ha-mcp · yakında — 13 Kas 12:30 · [kurulum](repolar/homeassistant-ai--ha-mcp.md)
+### Günün Reposu g03 — homeassistant-ai/ha-mcp · [video](https://www.youtube.com/watch?v=C645eu5sxtg) · [kurulum](repolar/homeassistant-ai--ha-mcp.md)
 
 *Günün Reposu: ha-mcp — Home Assistant'ı Claude ile yönet*
 
@@ -91,7 +91,7 @@
 |---|---|---|---|
 | 1 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | [kurulum](repolar/homeassistant-ai--ha-mcp.md) | Home Assistant'ı Claude, ChatGPT gibi yapay zekâ asistanlarıyla yapılandırıp otomatikleştiren 87 araçlı MCP sunucusu. |
 
-### Trend Short t2026-11-12-1 — meta/astryx · yakında — 13 Kas 11:00 · [kurulum](repolar/meta--astryx.md)
+### Trend Short t2026-11-12-1 — meta/astryx · [video](https://www.youtube.com/shorts/UuXvMFLqKHI) · [kurulum](repolar/meta--astryx.md)
 
 *astryx: Meta'nın 150 bileşenli tasarım sistemi, açık kaynak*
 
@@ -136,7 +136,7 @@
 
 | Repo | Belge | Özet | Bölüm |
 |---|---|---|---|
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [kurulum](repolar/addyosmani--agent-skills.md) | Addy Osmani'nin coding agent'lara spec, plan, test, review ve ship disiplini kazandıran 25 skill ve 9 slash komutluk paketi. | trend Short t2026-11-12-2 · yakında — 13 Kas 14:00 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [kurulum](repolar/addyosmani--agent-skills.md) | Addy Osmani'nin coding agent'lara spec, plan, test, review ve ship disiplini kazandıran 25 skill ve 9 slash komutluk paketi. | trend Short t2026-11-12-2 · [video](https://www.youtube.com/shorts/5HtVKHmO2Fw) |
 | [blader/humanizer](https://github.com/blader/humanizer) | [kurulum](repolar/blader--humanizer.md) | Yapay zekâ yazısının izlerini (26 kalıp) anlamı değiştirmeden silen, Wikipedia'nın rehberine dayanan agent skill'i. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | [kurulum](repolar/bradautomates--claude-video.md) | Claude Code ve Codex'e video izletir: URL ya da dosyadan zaman damgalı kareler ve transkript çıkaran /watch skill'i. | Günün Reposu g05 · yakında — 15 Kas 12:30 |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [kurulum](repolar/chatwoot--chatwoot.md) | Intercom ve Zendesk'e açık kaynak alternatif: canlı sohbet, e-posta ve WhatsApp'ı tek gelen kutusunda toplayan destek masası. | Günün Reposu g06 · yakında — 16 Kas 15:30 |
@@ -145,20 +145,22 @@
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | [kurulum](repolar/donchitos--claude-code-game-studios.md) | Claude Code'u oyun stüdyosuna çeviren şablon: bir cümlelik fikirden brief ve oynanabilir tarayıcı oyunu, 49 agent ve 75 skill. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [floci-io/floci](https://github.com/floci-io/floci) | [kurulum](repolar/floci-io--floci.md) | Hesap ve token istemeyen ücretsiz yerel AWS emülatörü; AWS SDK, CLI ve Terraform'u localhost:4566'ya yöneltirsin. | Günün Reposu g04 · yakında — 14 Kas 12:30 |
 | [github/spec-kit](https://github.com/github/spec-kit) | [kurulum](repolar/github--spec-kit.md) | Coding agent'lara spec'ten plan, görev ve koda giden yapılı süreçler, şablonlar ve belgelenmiş çıktılar veren GitHub araç seti. | [2026-W45 bölümü](bolumler/2026-W45.md) |
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | [kurulum](repolar/googlechrome--modern-web-guidance-src.md) | Chrome, Edge, Firefox ve MDN ekiplerinin coding agent'lara güncel web platformu pratiklerini öğreten skill setinin kaynak deposu. | trend Short t2026-11-12-3 · yakında — 13 Kas 16:30 |
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | [kurulum](repolar/homeassistant-ai--ha-mcp.md) | Home Assistant'ı Claude, ChatGPT gibi yapay zekâ asistanlarıyla yapılandırıp otomatikleştiren 87 araçlı MCP sunucusu. | Günün Reposu g03 · yakında — 13 Kas 12:30 |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | [kurulum](repolar/googlechrome--modern-web-guidance-src.md) | Chrome, Edge, Firefox ve MDN ekiplerinin coding agent'lara güncel web platformu pratiklerini öğreten skill setinin kaynak deposu. | trend Short t2026-11-12-3 · [video](https://www.youtube.com/shorts/1J8TwM9Hk5E) |
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | [kurulum](repolar/homeassistant-ai--ha-mcp.md) | Home Assistant'ı Claude, ChatGPT gibi yapay zekâ asistanlarıyla yapılandırıp otomatikleştiren 87 araçlı MCP sunucusu. | Günün Reposu g03 · [video](https://www.youtube.com/watch?v=C645eu5sxtg) |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | [kurulum](repolar/juliusbrussee--caveman.md) | Claude Code, Codex, Gemini CLI gibi kodlama ajanlarına daha az token harcatan skill ve yerel proxy; kod birebir kalır. | Günün Reposu g01 · [video](https://www.youtube.com/watch?v=mjaNUVKMbwQ) |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [kurulum](repolar/lightpanda-io--browser.md) | Zig ile sıfırdan yazılmış, Chromium'dan çok daha hafif, AI agent'ları ve web otomasyonu için tasarlanmış headless browser. | Günün Reposu g08 · yakında — 18 Kas 12:30 |
 | [localsend/localsend](https://github.com/localsend/localsend) | [kurulum](repolar/localsend--localsend.md) | Aynı yerel ağdaki cihazlar arasında internet ve sunucu olmadan dosya ve mesaj paylaşan açık kaynak AirDrop alternatifi. | Günün Reposu g02 · [video](https://www.youtube.com/watch?v=1IylBcEQ17w) |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | [kurulum](repolar/mattpocock--skills.md) | Matt Pocock'un Claude Code, Codex ve benzeri coding agent'lar için günlük mühendislik skill paketi (grill-me, tdd, triage). | [2026-W45 bölümü](bolumler/2026-W45.md) |
-| [meta/astryx](https://github.com/meta/astryx) | [kurulum](repolar/meta--astryx.md) | Meta'nın React 19 ve StyleX üzerine kurulu, 150'den fazla bileşen, tema ve CLI ile gelen, agent'lara hazır açık kaynak design system'ı. | trend Short t2026-11-12-1 · yakında — 13 Kas 11:00 |
+| [meta/astryx](https://github.com/meta/astryx) | [kurulum](repolar/meta--astryx.md) | Meta'nın React 19 ve StyleX üzerine kurulu, 150'den fazla bileşen, tema ve CLI ile gelen, agent'lara hazır açık kaynak design system'ı. | trend Short t2026-11-12-1 · [video](https://www.youtube.com/shorts/UuXvMFLqKHI) |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [kurulum](repolar/milind-soni--openmausbot.md) | Claude, Codex ve Grok CLI'larını sohbet uygulamasında bot kadrosuna çeviren, yerel çalışan açık kaynak Grok Bot alternatifi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [kurulum](repolar/nutlope--hallmark.md) | Claude Code, Codex, Cursor ve OpenCode için yapay zekâ işi gibi görünmeyen web sayfaları üreten, elli temalı tasarım skill'i. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [kurulum](repolar/nvidia--auto-ontology.md) | NVIDIA'nın kurumsal metadata'dan ontoloji üretip agent'lara MCP, CLI ve API ile doğrulanmış text-to-SQL sunan Python çatısı. | [2026-W45 bölümü](bolumler/2026-W45.md) |
+| [openai/codex-security](https://github.com/openai/codex-security) | [kurulum](repolar/openai--codex-security.md) | Kodundaki güvenlik açıklarını bulan, doğrulayan ve düzelten OpenAI'ın CLI ve TypeScript SDK'sı. | trend Short t2026-11-14-1 · henüz yüklenmedi |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | [kurulum](repolar/pingdotgg--t3code.md) | Bilgisayarındaki coding agent'ları (Claude Code, Codex, Cursor…) masaüstü, web ve telefondan tek arayüzle yöneten açık kaynak kontrol düzlemi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. | Günün Reposu g07 · yakında — 17 Kas 12:30 |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [kurulum](repolar/thedotmack--claude-mem.md) | Coding agent'ın oturumlar arasında unuttuğu bağlamı kaydedip sıkıştıran ve sonraki oturuma geri veren kalıcı hafıza eklentisi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [we-promise/sure](https://github.com/we-promise/sure) | [kurulum](repolar/we-promise--sure.md) | Maybe Finance'in topluluk çatalı olan, Docker ile kendi sunucunda barındırabileceğin açık kaynak kişisel finans uygulaması. | Günün Reposu g10 · yakında — 20 Kas 12:30 |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [kurulum](repolar/zhulinsen--daily_stock_analysis.md) | Takip listendeki hisseleri her gün LLM ile analiz edip sonucu Telegram, Slack ya da e-postaya gönderen açık kaynak sistem. | trend Short t2026-11-14-2 · henüz yüklenmedi |
 
 ## Katkı
 

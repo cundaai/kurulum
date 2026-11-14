@@ -126,4 +126,4 @@ Vite'ta aynı CSS import'ları ve provider'lar geçerli; bundler'sız sayfa içi
 
 ---
 
-*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki trend Short t2026-11-12-1 videosu için hazırlandı (yakında — 13 Kas 11:00). Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
+*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki trend Short t2026-11-12-1 videosu için hazırlandı: https://www.youtube.com/shorts/UuXvMFLqKHI. Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
