@@ -129,4 +129,4 @@ Gemini motoru için `~/.config/watch/.env` dosyasına `GEMINI_API_KEY=<API_ANAHT
 
 ---
 
-*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki Günün Reposu g05 videosu için hazırlandı (yakında — 15 Kas 12:30). Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
+*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki Günün Reposu g05 videosu için hazırlandı: https://www.youtube.com/watch?v=3Am4HNJmWA0. Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
