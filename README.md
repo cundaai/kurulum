@@ -51,6 +51,23 @@
 |---|---|---|---|
 | 1 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [kurulum](repolar/chatwoot--chatwoot.md) | Intercom ve Zendesk'e açık kaynak alternatif: canlı sohbet, e-posta ve WhatsApp'ı tek gelen kutusunda toplayan destek masası. |
 
+### 2026-W46 — 9–15 Kasım 2026 · yakında — 16 Kas 15:30 · [bölüm sayfası](bolumler/2026-W46.md)
+
+*GitHub'dan İlginç ve İşe Yarar 10 Repo \| 9–15 Kasım 2026*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [kurulum](repolar/sherlock-project--sherlock.md) | Bir kullanıcı adının 400'den fazla sosyal ağda hesabı olup olmadığını komut satırından tarayan açık kaynak OSINT aracı. |
+| 2 | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | [kurulum](repolar/google--elephant-goldfish-model.md) | Coding agent'larla yazılım tasarımı yapıp tasarım belgesini önceki konuşmayı bilmeyen taze gözlerle inceleten açık kaynak plugin. |
+| 3 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | [kurulum](repolar/vercel-labs--agent-browser.md) | AI agent'lara sayfaları açıp erişilebilirlik ağacı olarak okuyan ve öğelere tıklayan, komut komut sürülen bir tarayıcı veren Rust CLI. |
+| 4 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | [kurulum](repolar/google-deepmind--mujoco.md) | Robotik, biyomekanik ve makine öğrenmesi için eklemli yapıların temaslı hareketini hızlı ve doğru simüle eden genel amaçlı fizik motoru. |
+| 5 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [kurulum](repolar/backnotprop--plannotator.md) | Coding agent'ların planlarını, dosyalarını ve kod değişikliklerini tarayıcıda işaretleyip yorumlarını tek tıkla agent'a geri gönderen yerel inceleme aracı. |
+| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | [kurulum](repolar/vercel-labs--agent-desktop.md) | AI agent'ların masaüstü uygulamalarını ekran görüntüsü yerine işletim sisteminin erişilebilirlik ağacından okuyup kullanmasını sağlayan computer use CLI'ı. |
+| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | [kurulum](repolar/leonxlnx--taste-skill.md) | Coding agent'ların sıradan landing page yerine tek tasarım sistemli, gerçek fotoğraflı ve tarayıcıda denetlenmiş profesyonel şirket siteleri kurmasını sağlayan Agent Skill. |
+| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | [kurulum](repolar/harry0703--moneyprinterturbo.md) | Bir konu ya da anahtar kelimeden senaryo, seslendirme, görüntü, altyazı ve müzikle hazır kısa video üreten açık kaynak araç. |
+| 9 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [kurulum](repolar/alibaba--open-code-review.md) | Git diff'lerini LLM agent'ıyla inceleyip satır satır kod incelemesi yorumu üreten, Alibaba'nın açık kaynak code review CLI aracı. |
+| 10 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [kurulum](repolar/copilotkit--openbot.md) | Her birine kendi tarayıcısı, dosyaları ve araçları verilen, her adımı onaya bağlanıp kaydedilen AI çalışma arkadaşları için kendi sunucunda çalışan açık kaynak çalışma alanı. |
+
 ### Günün Reposu g05 — bradautomates/claude-video · [video](https://www.youtube.com/watch?v=3Am4HNJmWA0) · [kurulum](repolar/bradautomates--claude-video.md)
 
 *Günün Reposu: claude-video — Claude'a video izlet*
@@ -137,6 +154,7 @@
 | Repo | Belge | Özet | Bölüm |
 |---|---|---|---|
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [kurulum](repolar/addyosmani--agent-skills.md) | Addy Osmani'nin coding agent'lara spec, plan, test, review ve ship disiplini kazandıran 25 skill ve 9 slash komutluk paketi. | trend Short t2026-11-12-2 · [video](https://www.youtube.com/shorts/5HtVKHmO2Fw) |
+| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | [kurulum](repolar/agentes-chat--agentes-chat.md) | Ekibin ve AI agent'ların aynı kanallarda ve DM'lerde çalıştığı, kendi sunucunda barındırılan açık kaynak ekip sohbeti. | trend Short t2026-11-16-1 · henüz yüklenmedi |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [kurulum](repolar/alibaba--open-code-review.md) | Git diff'lerini LLM agent'ıyla inceleyip satır satır kod incelemesi yorumu üreten, Alibaba'nın açık kaynak code review CLI aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [kurulum](repolar/backnotprop--plannotator.md) | Coding agent'ların planlarını, dosyalarını ve kod değişikliklerini tarayıcıda işaretleyip yorumlarını tek tıkla agent'a geri gönderen yerel inceleme aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [blader/humanizer](https://github.com/blader/humanizer) | [kurulum](repolar/blader--humanizer.md) | Yapay zekâ yazısının izlerini (26 kalıp) anlamı değiştirmeden silen, Wikipedia'nın rehberine dayanan agent skill'i. | [2026-W45 bölümü](bolumler/2026-W45.md) |
