@@ -43,7 +43,7 @@
 |---|---|---|---|
 | 1 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. |
 
-### Günün Reposu g06 — chatwoot/chatwoot · yakında — 16 Kas 15:30 · [kurulum](repolar/chatwoot--chatwoot.md)
+### Günün Reposu g06 — chatwoot/chatwoot · [video](https://www.youtube.com/watch?v=mr15xc16DgQ) · [kurulum](repolar/chatwoot--chatwoot.md)
 
 *Günün Reposu: Chatwoot — kendi sunucunda Intercom alternatifi*
 
@@ -51,7 +51,7 @@
 |---|---|---|---|
 | 1 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [kurulum](repolar/chatwoot--chatwoot.md) | Intercom ve Zendesk'e açık kaynak alternatif: canlı sohbet, e-posta ve WhatsApp'ı tek gelen kutusunda toplayan destek masası. |
 
-### 2026-W46 — 9–15 Kasım 2026 · yakında — 16 Kas 15:30 · [bölüm sayfası](bolumler/2026-W46.md)
+### 2026-W46 — 9–15 Kasım 2026 · [video](https://www.youtube.com/watch?v=UADSMY2Z4eY) · [bölüm sayfası](bolumler/2026-W46.md)
 
 *GitHub'dan İlginç ve İşe Yarar 10 Repo \| 9–15 Kasım 2026*
 
@@ -157,9 +157,10 @@
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | [kurulum](repolar/agentes-chat--agentes-chat.md) | Ekibin ve AI agent'ların aynı kanallarda ve DM'lerde çalıştığı, kendi sunucunda barındırılan açık kaynak ekip sohbeti. | trend Short t2026-11-16-1 · henüz yüklenmedi |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [kurulum](repolar/alibaba--open-code-review.md) | Git diff'lerini LLM agent'ıyla inceleyip satır satır kod incelemesi yorumu üreten, Alibaba'nın açık kaynak code review CLI aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [kurulum](repolar/backnotprop--plannotator.md) | Coding agent'ların planlarını, dosyalarını ve kod değişikliklerini tarayıcıda işaretleyip yorumlarını tek tıkla agent'a geri gönderen yerel inceleme aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
+| [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup) | [kurulum](repolar/benchup3d--benchup.md) | Ahşap işleri ve mobilya tasarımı için Rust ile yazılmış, masaüstünde ve tarayıcıda çalışan ücretsiz, açık kaynak 3D modelleme uygulaması. | trend Short t2026-11-17-1 · henüz yüklenmedi |
 | [blader/humanizer](https://github.com/blader/humanizer) | [kurulum](repolar/blader--humanizer.md) | Yapay zekâ yazısının izlerini (26 kalıp) anlamı değiştirmeden silen, Wikipedia'nın rehberine dayanan agent skill'i. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | [kurulum](repolar/bradautomates--claude-video.md) | Claude Code ve Codex'e video izletir: URL ya da dosyadan zaman damgalı kareler ve transkript çıkaran /watch skill'i. | Günün Reposu g05 · [video](https://www.youtube.com/watch?v=3Am4HNJmWA0) |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [kurulum](repolar/chatwoot--chatwoot.md) | Intercom ve Zendesk'e açık kaynak alternatif: canlı sohbet, e-posta ve WhatsApp'ı tek gelen kutusunda toplayan destek masası. | Günün Reposu g06 · yakında — 16 Kas 15:30 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [kurulum](repolar/chatwoot--chatwoot.md) | Intercom ve Zendesk'e açık kaynak alternatif: canlı sohbet, e-posta ve WhatsApp'ı tek gelen kutusunda toplayan destek masası. | Günün Reposu g06 · [video](https://www.youtube.com/watch?v=mr15xc16DgQ) |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [kurulum](repolar/copilotkit--openbot.md) | Her birine kendi tarayıcısı, dosyaları ve araçları verilen, her adımı onaya bağlanıp kaydedilen AI çalışma arkadaşları için kendi sunucunda çalışan açık kaynak çalışma alanı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [kurulum](repolar/coreyhaines31--marketingskills.md) | Claude Code, Codex ve Cursor gibi agent'lara CRO, copywriting, SEO ve analytics bilgisi katan açık kaynak pazarlama skill koleksiyonu. | Günün Reposu g09 · yakında — 19 Kas 12:30 |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | [kurulum](repolar/d4vinci--scrapling.md) | Hızlı HTTP, stealth tarayıcı, güçlü parser ve eşzamanlı spider'ları tek pakette toplayan Python web scraping çatısı. | [2026-W45 bölümü](bolumler/2026-W45.md) |
