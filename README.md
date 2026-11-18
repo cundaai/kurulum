@@ -35,13 +35,29 @@
 |---|---|---|---|
 | 1 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [kurulum](repolar/lightpanda-io--browser.md) | Zig ile sıfırdan yazılmış, Chromium'dan çok daha hafif, AI agent'ları ve web otomasyonu için tasarlanmış headless browser. |
 
-### Günün Reposu g07 — ranxianglei/billion-context · yakında — 17 Kas 12:30 · [kurulum](repolar/ranxianglei--billion-context.md)
+### Günün Reposu g07 — ranxianglei/billion-context · [video](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) · [kurulum](repolar/ranxianglei--billion-context.md)
 
 *Günün Reposu: billion-context — agent'ın bağlamı aylarca sürsün*
 
 | # | Repo | Belge | Özet |
 |---|---|---|---|
 | 1 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. |
+
+### Trend Short t2026-11-17-1 — BenchUp3D/benchup · [video](https://www.youtube.com/shorts/FeND7E-NqBs) · [kurulum](repolar/benchup3d--benchup.md)
+
+*SketchUp'a boşuna para ödeme: benchup*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup) | [kurulum](repolar/benchup3d--benchup.md) | Ahşap işleri ve mobilya tasarımı için Rust ile yazılmış, masaüstünde ve tarayıcıda çalışan ücretsiz, açık kaynak 3D modelleme uygulaması. |
+
+### Trend Short t2026-11-16-1 — agentes-chat/agentes-chat · [video](https://www.youtube.com/shorts/ZFgXeTUZuO0) · [kurulum](repolar/agentes-chat--agentes-chat.md)
+
+*Slack'e boşuna para ödeme: agentes-chat*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | [kurulum](repolar/agentes-chat--agentes-chat.md) | Ekibin ve AI agent'ların aynı kanallarda ve DM'lerde çalıştığı, kendi sunucunda barındırılan açık kaynak ekip sohbeti. |
 
 ### Günün Reposu g06 — chatwoot/chatwoot · [video](https://www.youtube.com/watch?v=mr15xc16DgQ) · [kurulum](repolar/chatwoot--chatwoot.md)
 
@@ -154,10 +170,11 @@
 | Repo | Belge | Özet | Bölüm |
 |---|---|---|---|
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [kurulum](repolar/addyosmani--agent-skills.md) | Addy Osmani'nin coding agent'lara spec, plan, test, review ve ship disiplini kazandıran 25 skill ve 9 slash komutluk paketi. | trend Short t2026-11-12-2 · [video](https://www.youtube.com/shorts/5HtVKHmO2Fw) |
-| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | [kurulum](repolar/agentes-chat--agentes-chat.md) | Ekibin ve AI agent'ların aynı kanallarda ve DM'lerde çalıştığı, kendi sunucunda barındırılan açık kaynak ekip sohbeti. | trend Short t2026-11-16-1 · henüz yüklenmedi |
+| [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | [kurulum](repolar/agentes-chat--agentes-chat.md) | Ekibin ve AI agent'ların aynı kanallarda ve DM'lerde çalıştığı, kendi sunucunda barındırılan açık kaynak ekip sohbeti. | trend Short t2026-11-16-1 · [video](https://www.youtube.com/shorts/ZFgXeTUZuO0) |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [kurulum](repolar/alibaba--open-code-review.md) | Git diff'lerini LLM agent'ıyla inceleyip satır satır kod incelemesi yorumu üreten, Alibaba'nın açık kaynak code review CLI aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
+| [aws/aws-emulator](https://github.com/aws/aws-emulator) | [kurulum](repolar/aws--aws-emulator.md) | AWS API'lerini kendi bilgisayarında, sunucunda ya da CI'da taklit eden, AWS hesabı istemeden kodunu test etmeni sağlayan yerel emülatör. | trend Short t2026-11-18-1 · henüz yüklenmedi |
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [kurulum](repolar/backnotprop--plannotator.md) | Coding agent'ların planlarını, dosyalarını ve kod değişikliklerini tarayıcıda işaretleyip yorumlarını tek tıkla agent'a geri gönderen yerel inceleme aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
-| [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup) | [kurulum](repolar/benchup3d--benchup.md) | Ahşap işleri ve mobilya tasarımı için Rust ile yazılmış, masaüstünde ve tarayıcıda çalışan ücretsiz, açık kaynak 3D modelleme uygulaması. | trend Short t2026-11-17-1 · henüz yüklenmedi |
+| [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup) | [kurulum](repolar/benchup3d--benchup.md) | Ahşap işleri ve mobilya tasarımı için Rust ile yazılmış, masaüstünde ve tarayıcıda çalışan ücretsiz, açık kaynak 3D modelleme uygulaması. | trend Short t2026-11-17-1 · [video](https://www.youtube.com/shorts/FeND7E-NqBs) |
 | [blader/humanizer](https://github.com/blader/humanizer) | [kurulum](repolar/blader--humanizer.md) | Yapay zekâ yazısının izlerini (26 kalıp) anlamı değiştirmeden silen, Wikipedia'nın rehberine dayanan agent skill'i. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | [kurulum](repolar/bradautomates--claude-video.md) | Claude Code ve Codex'e video izletir: URL ya da dosyadan zaman damgalı kareler ve transkript çıkaran /watch skill'i. | Günün Reposu g05 · [video](https://www.youtube.com/watch?v=3Am4HNJmWA0) |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [kurulum](repolar/chatwoot--chatwoot.md) | Intercom ve Zendesk'e açık kaynak alternatif: canlı sohbet, e-posta ve WhatsApp'ı tek gelen kutusunda toplayan destek masası. | Günün Reposu g06 · [video](https://www.youtube.com/watch?v=mr15xc16DgQ) |
@@ -183,7 +200,7 @@
 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [kurulum](repolar/nvidia--auto-ontology.md) | NVIDIA'nın kurumsal metadata'dan ontoloji üretip agent'lara MCP, CLI ve API ile doğrulanmış text-to-SQL sunan Python çatısı. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [openai/codex-security](https://github.com/openai/codex-security) | [kurulum](repolar/openai--codex-security.md) | Kodundaki güvenlik açıklarını bulan, doğrulayan ve düzelten OpenAI'ın CLI ve TypeScript SDK'sı. | trend Short t2026-11-14-1 · henüz yüklenmedi |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | [kurulum](repolar/pingdotgg--t3code.md) | Bilgisayarındaki coding agent'ları (Claude Code, Codex, Cursor…) masaüstü, web ve telefondan tek arayüzle yöneten açık kaynak kontrol düzlemi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
-| [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. | Günün Reposu g07 · yakında — 17 Kas 12:30 |
+| [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. | Günün Reposu g07 · [video](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [kurulum](repolar/sherlock-project--sherlock.md) | Bir kullanıcı adının 400'den fazla sosyal ağda hesabı olup olmadığını komut satırından tarayan açık kaynak OSINT aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [kurulum](repolar/thedotmack--claude-mem.md) | Coding agent'ın oturumlar arasında unuttuğu bağlamı kaydedip sıkıştıran ve sonraki oturuma geri veren kalıcı hafıza eklentisi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | [kurulum](repolar/vercel-labs--agent-browser.md) | AI agent'lara sayfaları açıp erişilebilirlik ağacı olarak okuyan ve öğelere tıklayan, komut komut sürülen bir tarayıcı veren Rust CLI. | [2026-W46 bölümü](bolumler/2026-W46.md) |
