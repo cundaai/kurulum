@@ -150,4 +150,4 @@ Agent modu, anahtarı ortam değişkeninden kendi bulur (`<SAGLAYICI_API_ANAHTAR
 
 ---
 
-*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki Günün Reposu g08 videosu için hazırlandı (yakında — 18 Kas 12:30). Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
+*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki Günün Reposu g08 videosu için hazırlandı: https://www.youtube.com/watch?v=sY2kfpbK-p8. Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*

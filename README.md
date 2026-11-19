@@ -27,13 +27,21 @@
 |---|---|---|---|
 | 1 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [kurulum](repolar/coreyhaines31--marketingskills.md) | Claude Code, Codex ve Cursor gibi agent'lara CRO, copywriting, SEO ve analytics bilgisi katan açık kaynak pazarlama skill koleksiyonu. |
 
-### Günün Reposu g08 — lightpanda-io/browser · yakında — 18 Kas 12:30 · [kurulum](repolar/lightpanda-io--browser.md)
+### Günün Reposu g08 — lightpanda-io/browser · [video](https://www.youtube.com/watch?v=sY2kfpbK-p8) · [kurulum](repolar/lightpanda-io--browser.md)
 
 *Günün Reposu: Lightpanda — agent'lar için 16 kat hafif tarayıcı*
 
 | # | Repo | Belge | Özet |
 |---|---|---|---|
 | 1 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [kurulum](repolar/lightpanda-io--browser.md) | Zig ile sıfırdan yazılmış, Chromium'dan çok daha hafif, AI agent'ları ve web otomasyonu için tasarlanmış headless browser. |
+
+### Trend Short t2026-11-18-1 — aws/aws-emulator · [video](https://www.youtube.com/shorts/1crcTbNLXuY) · [kurulum](repolar/aws--aws-emulator.md)
+
+*aws-emulator: AWS hesabı olmadan kodunu AWS API'lerine karşı test et*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [aws/aws-emulator](https://github.com/aws/aws-emulator) | [kurulum](repolar/aws--aws-emulator.md) | AWS API'lerini kendi bilgisayarında, sunucunda ya da CI'da taklit eden, AWS hesabı istemeden kodunu test etmeni sağlayan yerel emülatör. |
 
 ### Günün Reposu g07 — ranxianglei/billion-context · [video](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) · [kurulum](repolar/ranxianglei--billion-context.md)
 
@@ -172,7 +180,7 @@
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [kurulum](repolar/addyosmani--agent-skills.md) | Addy Osmani'nin coding agent'lara spec, plan, test, review ve ship disiplini kazandıran 25 skill ve 9 slash komutluk paketi. | trend Short t2026-11-12-2 · [video](https://www.youtube.com/shorts/5HtVKHmO2Fw) |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | [kurulum](repolar/agentes-chat--agentes-chat.md) | Ekibin ve AI agent'ların aynı kanallarda ve DM'lerde çalıştığı, kendi sunucunda barındırılan açık kaynak ekip sohbeti. | trend Short t2026-11-16-1 · [video](https://www.youtube.com/shorts/ZFgXeTUZuO0) |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [kurulum](repolar/alibaba--open-code-review.md) | Git diff'lerini LLM agent'ıyla inceleyip satır satır kod incelemesi yorumu üreten, Alibaba'nın açık kaynak code review CLI aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
-| [aws/aws-emulator](https://github.com/aws/aws-emulator) | [kurulum](repolar/aws--aws-emulator.md) | AWS API'lerini kendi bilgisayarında, sunucunda ya da CI'da taklit eden, AWS hesabı istemeden kodunu test etmeni sağlayan yerel emülatör. | trend Short t2026-11-18-1 · henüz yüklenmedi |
+| [aws/aws-emulator](https://github.com/aws/aws-emulator) | [kurulum](repolar/aws--aws-emulator.md) | AWS API'lerini kendi bilgisayarında, sunucunda ya da CI'da taklit eden, AWS hesabı istemeden kodunu test etmeni sağlayan yerel emülatör. | trend Short t2026-11-18-1 · [video](https://www.youtube.com/shorts/1crcTbNLXuY) |
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [kurulum](repolar/backnotprop--plannotator.md) | Coding agent'ların planlarını, dosyalarını ve kod değişikliklerini tarayıcıda işaretleyip yorumlarını tek tıkla agent'a geri gönderen yerel inceleme aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup) | [kurulum](repolar/benchup3d--benchup.md) | Ahşap işleri ve mobilya tasarımı için Rust ile yazılmış, masaüstünde ve tarayıcıda çalışan ücretsiz, açık kaynak 3D modelleme uygulaması. | trend Short t2026-11-17-1 · [video](https://www.youtube.com/shorts/FeND7E-NqBs) |
 | [blader/humanizer](https://github.com/blader/humanizer) | [kurulum](repolar/blader--humanizer.md) | Yapay zekâ yazısının izlerini (26 kalıp) anlamı değiştirmeden silen, Wikipedia'nın rehberine dayanan agent skill'i. | [2026-W45 bölümü](bolumler/2026-W45.md) |
@@ -191,7 +199,8 @@
 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | [kurulum](repolar/homeassistant-ai--ha-mcp.md) | Home Assistant'ı Claude, ChatGPT gibi yapay zekâ asistanlarıyla yapılandırıp otomatikleştiren 87 araçlı MCP sunucusu. | Günün Reposu g03 · [video](https://www.youtube.com/watch?v=C645eu5sxtg) |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | [kurulum](repolar/juliusbrussee--caveman.md) | Claude Code, Codex, Gemini CLI gibi kodlama ajanlarına daha az token harcatan skill ve yerel proxy; kod birebir kalır. | Günün Reposu g01 · [video](https://www.youtube.com/watch?v=mjaNUVKMbwQ) |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | [kurulum](repolar/leonxlnx--taste-skill.md) | Coding agent'ların sıradan landing page yerine tek tasarım sistemli, gerçek fotoğraflı ve tarayıcıda denetlenmiş profesyonel şirket siteleri kurmasını sağlayan Agent Skill. | [2026-W46 bölümü](bolumler/2026-W46.md) |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [kurulum](repolar/lightpanda-io--browser.md) | Zig ile sıfırdan yazılmış, Chromium'dan çok daha hafif, AI agent'ları ve web otomasyonu için tasarlanmış headless browser. | Günün Reposu g08 · yakında — 18 Kas 12:30 |
+| [libracoder/kiri](https://github.com/libracoder/kiri) | [kurulum](repolar/libracoder--kiri.md) | macOS, Windows ve Linux için Rust ile yazılmış, Docker CLI ve Compose ile çalışan küçük ve hızlı bir container runtime. | trend Short t2026-11-19-1 · henüz yüklenmedi |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [kurulum](repolar/lightpanda-io--browser.md) | Zig ile sıfırdan yazılmış, Chromium'dan çok daha hafif, AI agent'ları ve web otomasyonu için tasarlanmış headless browser. | Günün Reposu g08 · [video](https://www.youtube.com/watch?v=sY2kfpbK-p8) |
 | [localsend/localsend](https://github.com/localsend/localsend) | [kurulum](repolar/localsend--localsend.md) | Aynı yerel ağdaki cihazlar arasında internet ve sunucu olmadan dosya ve mesaj paylaşan açık kaynak AirDrop alternatifi. | Günün Reposu g02 · [video](https://www.youtube.com/watch?v=1IylBcEQ17w) |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | [kurulum](repolar/mattpocock--skills.md) | Matt Pocock'un Claude Code, Codex ve benzeri coding agent'lar için günlük mühendislik skill paketi (grill-me, tdd, triage). | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [meta/astryx](https://github.com/meta/astryx) | [kurulum](repolar/meta--astryx.md) | Meta'nın React 19 ve StyleX üzerine kurulu, 150'den fazla bileşen, tema ve CLI ile gelen, agent'lara hazır açık kaynak design system'ı. | trend Short t2026-11-12-1 · [video](https://www.youtube.com/shorts/UuXvMFLqKHI) |
