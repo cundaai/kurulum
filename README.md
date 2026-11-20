@@ -19,13 +19,29 @@
 |---|---|---|---|
 | 1 | [we-promise/sure](https://github.com/we-promise/sure) | [kurulum](repolar/we-promise--sure.md) | Maybe Finance'in topluluk çatalı olan, Docker ile kendi sunucunda barındırabileceğin açık kaynak kişisel finans uygulaması. |
 
-### Günün Reposu g09 — coreyhaines31/marketingskills · yakında — 19 Kas 12:30 · [kurulum](repolar/coreyhaines31--marketingskills.md)
+### Trend Short t2026-11-14-1 — openai/codex-security · [video](https://www.youtube.com/shorts/DDA0Nped1yg) · [kurulum](repolar/openai--codex-security.md)
+
+*codex-security: Koddaki güvenlik açıklarını bulur, doğrular ve düzeltir*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [openai/codex-security](https://github.com/openai/codex-security) | [kurulum](repolar/openai--codex-security.md) | Kodundaki güvenlik açıklarını bulan, doğrulayan ve düzelten OpenAI'ın CLI ve TypeScript SDK'sı. |
+
+### Günün Reposu g09 — coreyhaines31/marketingskills · [video](https://www.youtube.com/watch?v=0-jhhrzIuw8) · [kurulum](repolar/coreyhaines31--marketingskills.md)
 
 *Günün Reposu: marketingskills — agent'ına pazarlama öğret*
 
 | # | Repo | Belge | Özet |
 |---|---|---|---|
 | 1 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [kurulum](repolar/coreyhaines31--marketingskills.md) | Claude Code, Codex ve Cursor gibi agent'lara CRO, copywriting, SEO ve analytics bilgisi katan açık kaynak pazarlama skill koleksiyonu. |
+
+### Trend Short t2026-11-19-1 — libracoder/kiri · [video](https://www.youtube.com/shorts/nR3skSXZcxg) · [kurulum](repolar/libracoder--kiri.md)
+
+*ngrok'a boşuna para ödeme: kiri*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [libracoder/kiri](https://github.com/libracoder/kiri) | [kurulum](repolar/libracoder--kiri.md) | macOS, Windows ve Linux için Rust ile yazılmış, Docker CLI ve Compose ile çalışan küçük ve hızlı bir container runtime. |
 
 ### Günün Reposu g08 — lightpanda-io/browser · [video](https://www.youtube.com/watch?v=sY2kfpbK-p8) · [kurulum](repolar/lightpanda-io--browser.md)
 
@@ -187,9 +203,10 @@
 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | [kurulum](repolar/bradautomates--claude-video.md) | Claude Code ve Codex'e video izletir: URL ya da dosyadan zaman damgalı kareler ve transkript çıkaran /watch skill'i. | Günün Reposu g05 · [video](https://www.youtube.com/watch?v=3Am4HNJmWA0) |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [kurulum](repolar/chatwoot--chatwoot.md) | Intercom ve Zendesk'e açık kaynak alternatif: canlı sohbet, e-posta ve WhatsApp'ı tek gelen kutusunda toplayan destek masası. | Günün Reposu g06 · [video](https://www.youtube.com/watch?v=mr15xc16DgQ) |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [kurulum](repolar/copilotkit--openbot.md) | Her birine kendi tarayıcısı, dosyaları ve araçları verilen, her adımı onaya bağlanıp kaydedilen AI çalışma arkadaşları için kendi sunucunda çalışan açık kaynak çalışma alanı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [kurulum](repolar/coreyhaines31--marketingskills.md) | Claude Code, Codex ve Cursor gibi agent'lara CRO, copywriting, SEO ve analytics bilgisi katan açık kaynak pazarlama skill koleksiyonu. | Günün Reposu g09 · yakında — 19 Kas 12:30 |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [kurulum](repolar/coreyhaines31--marketingskills.md) | Claude Code, Codex ve Cursor gibi agent'lara CRO, copywriting, SEO ve analytics bilgisi katan açık kaynak pazarlama skill koleksiyonu. | Günün Reposu g09 · [video](https://www.youtube.com/watch?v=0-jhhrzIuw8) |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | [kurulum](repolar/d4vinci--scrapling.md) | Hızlı HTTP, stealth tarayıcı, güçlü parser ve eşzamanlı spider'ları tek pakette toplayan Python web scraping çatısı. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | [kurulum](repolar/donchitos--claude-code-game-studios.md) | Claude Code'u oyun stüdyosuna çeviren şablon: bir cümlelik fikirden brief ve oynanabilir tarayıcı oyunu, 49 agent ve 75 skill. | [2026-W45 bölümü](bolumler/2026-W45.md) |
+| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [kurulum](repolar/erkamyaman--rust-anything.md) | Uygulamanı parça parça Rust'a taşırken her parçayı özgün kodun kaydedilmiş davranışıyla karşılaştıran CLI ve MCP sunucusu. | trend Short t2026-11-20-1 · henüz yüklenmedi |
 | [floci-io/floci](https://github.com/floci-io/floci) | [kurulum](repolar/floci-io--floci.md) | Hesap ve token istemeyen ücretsiz yerel AWS emülatörü; AWS SDK, CLI ve Terraform'u localhost:4566'ya yöneltirsin. | Günün Reposu g04 · [video](https://www.youtube.com/watch?v=s1W4tKSSr-A) |
 | [github/spec-kit](https://github.com/github/spec-kit) | [kurulum](repolar/github--spec-kit.md) | Coding agent'lara spec'ten plan, görev ve koda giden yapılı süreçler, şablonlar ve belgelenmiş çıktılar veren GitHub araç seti. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | [kurulum](repolar/google-deepmind--mujoco.md) | Robotik, biyomekanik ve makine öğrenmesi için eklemli yapıların temaslı hareketini hızlı ve doğru simüle eden genel amaçlı fizik motoru. | [2026-W46 bölümü](bolumler/2026-W46.md) |
@@ -199,7 +216,7 @@
 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | [kurulum](repolar/homeassistant-ai--ha-mcp.md) | Home Assistant'ı Claude, ChatGPT gibi yapay zekâ asistanlarıyla yapılandırıp otomatikleştiren 87 araçlı MCP sunucusu. | Günün Reposu g03 · [video](https://www.youtube.com/watch?v=C645eu5sxtg) |
 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | [kurulum](repolar/juliusbrussee--caveman.md) | Claude Code, Codex, Gemini CLI gibi kodlama ajanlarına daha az token harcatan skill ve yerel proxy; kod birebir kalır. | Günün Reposu g01 · [video](https://www.youtube.com/watch?v=mjaNUVKMbwQ) |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | [kurulum](repolar/leonxlnx--taste-skill.md) | Coding agent'ların sıradan landing page yerine tek tasarım sistemli, gerçek fotoğraflı ve tarayıcıda denetlenmiş profesyonel şirket siteleri kurmasını sağlayan Agent Skill. | [2026-W46 bölümü](bolumler/2026-W46.md) |
-| [libracoder/kiri](https://github.com/libracoder/kiri) | [kurulum](repolar/libracoder--kiri.md) | macOS, Windows ve Linux için Rust ile yazılmış, Docker CLI ve Compose ile çalışan küçük ve hızlı bir container runtime. | trend Short t2026-11-19-1 · henüz yüklenmedi |
+| [libracoder/kiri](https://github.com/libracoder/kiri) | [kurulum](repolar/libracoder--kiri.md) | macOS, Windows ve Linux için Rust ile yazılmış, Docker CLI ve Compose ile çalışan küçük ve hızlı bir container runtime. | trend Short t2026-11-19-1 · [video](https://www.youtube.com/shorts/nR3skSXZcxg) |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [kurulum](repolar/lightpanda-io--browser.md) | Zig ile sıfırdan yazılmış, Chromium'dan çok daha hafif, AI agent'ları ve web otomasyonu için tasarlanmış headless browser. | Günün Reposu g08 · [video](https://www.youtube.com/watch?v=sY2kfpbK-p8) |
 | [localsend/localsend](https://github.com/localsend/localsend) | [kurulum](repolar/localsend--localsend.md) | Aynı yerel ağdaki cihazlar arasında internet ve sunucu olmadan dosya ve mesaj paylaşan açık kaynak AirDrop alternatifi. | Günün Reposu g02 · [video](https://www.youtube.com/watch?v=1IylBcEQ17w) |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | [kurulum](repolar/mattpocock--skills.md) | Matt Pocock'un Claude Code, Codex ve benzeri coding agent'lar için günlük mühendislik skill paketi (grill-me, tdd, triage). | [2026-W45 bölümü](bolumler/2026-W45.md) |
@@ -207,7 +224,7 @@
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [kurulum](repolar/milind-soni--openmausbot.md) | Claude, Codex ve Grok CLI'larını sohbet uygulamasında bot kadrosuna çeviren, yerel çalışan açık kaynak Grok Bot alternatifi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | [kurulum](repolar/nutlope--hallmark.md) | Claude Code, Codex, Cursor ve OpenCode için yapay zekâ işi gibi görünmeyen web sayfaları üreten, elli temalı tasarım skill'i. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [kurulum](repolar/nvidia--auto-ontology.md) | NVIDIA'nın kurumsal metadata'dan ontoloji üretip agent'lara MCP, CLI ve API ile doğrulanmış text-to-SQL sunan Python çatısı. | [2026-W45 bölümü](bolumler/2026-W45.md) |
-| [openai/codex-security](https://github.com/openai/codex-security) | [kurulum](repolar/openai--codex-security.md) | Kodundaki güvenlik açıklarını bulan, doğrulayan ve düzelten OpenAI'ın CLI ve TypeScript SDK'sı. | trend Short t2026-11-14-1 · henüz yüklenmedi |
+| [openai/codex-security](https://github.com/openai/codex-security) | [kurulum](repolar/openai--codex-security.md) | Kodundaki güvenlik açıklarını bulan, doğrulayan ve düzelten OpenAI'ın CLI ve TypeScript SDK'sı. | trend Short t2026-11-14-1 · [video](https://www.youtube.com/shorts/DDA0Nped1yg) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | [kurulum](repolar/pingdotgg--t3code.md) | Bilgisayarındaki coding agent'ları (Claude Code, Codex, Cursor…) masaüstü, web ve telefondan tek arayüzle yöneten açık kaynak kontrol düzlemi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. | Günün Reposu g07 · [video](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [kurulum](repolar/sherlock-project--sherlock.md) | Bir kullanıcı adının 400'den fazla sosyal ağda hesabı olup olmadığını komut satırından tarayan açık kaynak OSINT aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
