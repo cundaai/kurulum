@@ -11,13 +11,29 @@
 
 ## Bölüme göre
 
-### Günün Reposu g10 — we-promise/sure · yakında — 20 Kas 12:30 · [kurulum](repolar/we-promise--sure.md)
+### Trend Short t2026-11-14-2 — ZhuLinsen/daily_stock_analysis · [video](https://www.youtube.com/shorts/KgYp1bvutxc) · [kurulum](repolar/zhulinsen--daily_stock_analysis.md)
+
+*daily_stock_analysis: Hisse takip listeni her gün LLM ile özetler*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [kurulum](repolar/zhulinsen--daily_stock_analysis.md) | Takip listendeki hisseleri her gün LLM ile analiz edip sonucu Telegram, Slack ya da e-postaya gönderen açık kaynak sistem. |
+
+### Günün Reposu g10 — we-promise/sure · [video](https://www.youtube.com/watch?v=7z32awD3FYM) · [kurulum](repolar/we-promise--sure.md)
 
 *Günün Reposu: Sure — kendi sunucunda kişisel finans uygulaması*
 
 | # | Repo | Belge | Özet |
 |---|---|---|---|
 | 1 | [we-promise/sure](https://github.com/we-promise/sure) | [kurulum](repolar/we-promise--sure.md) | Maybe Finance'in topluluk çatalı olan, Docker ile kendi sunucunda barındırabileceğin açık kaynak kişisel finans uygulaması. |
+
+### Trend Short t2026-11-20-1 — erkamyaman/rust-anything · [video](https://www.youtube.com/shorts/iAcY8hOe-z4) · [kurulum](repolar/erkamyaman--rust-anything.md)
+
+*rust-anything: Rust'a geçişte davranışın aynı kaldığını kanıtlar*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [kurulum](repolar/erkamyaman--rust-anything.md) | Uygulamanı parça parça Rust'a taşırken her parçayı özgün kodun kaydedilmiş davranışıyla karşılaştıran CLI ve MCP sunucusu. |
 
 ### Trend Short t2026-11-14-1 — openai/codex-security · [video](https://www.youtube.com/shorts/DDA0Nped1yg) · [kurulum](repolar/openai--codex-security.md)
 
@@ -205,8 +221,9 @@
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [kurulum](repolar/copilotkit--openbot.md) | Her birine kendi tarayıcısı, dosyaları ve araçları verilen, her adımı onaya bağlanıp kaydedilen AI çalışma arkadaşları için kendi sunucunda çalışan açık kaynak çalışma alanı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [kurulum](repolar/coreyhaines31--marketingskills.md) | Claude Code, Codex ve Cursor gibi agent'lara CRO, copywriting, SEO ve analytics bilgisi katan açık kaynak pazarlama skill koleksiyonu. | Günün Reposu g09 · [video](https://www.youtube.com/watch?v=0-jhhrzIuw8) |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | [kurulum](repolar/d4vinci--scrapling.md) | Hızlı HTTP, stealth tarayıcı, güçlü parser ve eşzamanlı spider'ları tek pakette toplayan Python web scraping çatısı. | [2026-W45 bölümü](bolumler/2026-W45.md) |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [kurulum](repolar/debpalash--voicestudio.md) | Ses klonlama, ses tasarımı, video dublajı, dikte ve transkripsiyonu kendi cihazında yerel modellerle yapan açık kaynak ses stüdyosu. | trend Short t2026-11-21-1 · henüz yüklenmedi |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | [kurulum](repolar/donchitos--claude-code-game-studios.md) | Claude Code'u oyun stüdyosuna çeviren şablon: bir cümlelik fikirden brief ve oynanabilir tarayıcı oyunu, 49 agent ve 75 skill. | [2026-W45 bölümü](bolumler/2026-W45.md) |
-| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [kurulum](repolar/erkamyaman--rust-anything.md) | Uygulamanı parça parça Rust'a taşırken her parçayı özgün kodun kaydedilmiş davranışıyla karşılaştıran CLI ve MCP sunucusu. | trend Short t2026-11-20-1 · henüz yüklenmedi |
+| [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [kurulum](repolar/erkamyaman--rust-anything.md) | Uygulamanı parça parça Rust'a taşırken her parçayı özgün kodun kaydedilmiş davranışıyla karşılaştıran CLI ve MCP sunucusu. | trend Short t2026-11-20-1 · [video](https://www.youtube.com/shorts/iAcY8hOe-z4) |
 | [floci-io/floci](https://github.com/floci-io/floci) | [kurulum](repolar/floci-io--floci.md) | Hesap ve token istemeyen ücretsiz yerel AWS emülatörü; AWS SDK, CLI ve Terraform'u localhost:4566'ya yöneltirsin. | Günün Reposu g04 · [video](https://www.youtube.com/watch?v=s1W4tKSSr-A) |
 | [github/spec-kit](https://github.com/github/spec-kit) | [kurulum](repolar/github--spec-kit.md) | Coding agent'lara spec'ten plan, görev ve koda giden yapılı süreçler, şablonlar ve belgelenmiş çıktılar veren GitHub araç seti. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | [kurulum](repolar/google-deepmind--mujoco.md) | Robotik, biyomekanik ve makine öğrenmesi için eklemli yapıların temaslı hareketini hızlı ve doğru simüle eden genel amaçlı fizik motoru. | [2026-W46 bölümü](bolumler/2026-W46.md) |
@@ -231,8 +248,8 @@
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [kurulum](repolar/thedotmack--claude-mem.md) | Coding agent'ın oturumlar arasında unuttuğu bağlamı kaydedip sıkıştıran ve sonraki oturuma geri veren kalıcı hafıza eklentisi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | [kurulum](repolar/vercel-labs--agent-browser.md) | AI agent'lara sayfaları açıp erişilebilirlik ağacı olarak okuyan ve öğelere tıklayan, komut komut sürülen bir tarayıcı veren Rust CLI. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | [kurulum](repolar/vercel-labs--agent-desktop.md) | AI agent'ların masaüstü uygulamalarını ekran görüntüsü yerine işletim sisteminin erişilebilirlik ağacından okuyup kullanmasını sağlayan computer use CLI'ı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
-| [we-promise/sure](https://github.com/we-promise/sure) | [kurulum](repolar/we-promise--sure.md) | Maybe Finance'in topluluk çatalı olan, Docker ile kendi sunucunda barındırabileceğin açık kaynak kişisel finans uygulaması. | Günün Reposu g10 · yakında — 20 Kas 12:30 |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [kurulum](repolar/zhulinsen--daily_stock_analysis.md) | Takip listendeki hisseleri her gün LLM ile analiz edip sonucu Telegram, Slack ya da e-postaya gönderen açık kaynak sistem. | trend Short t2026-11-14-2 · henüz yüklenmedi |
+| [we-promise/sure](https://github.com/we-promise/sure) | [kurulum](repolar/we-promise--sure.md) | Maybe Finance'in topluluk çatalı olan, Docker ile kendi sunucunda barındırabileceğin açık kaynak kişisel finans uygulaması. | Günün Reposu g10 · [video](https://www.youtube.com/watch?v=7z32awD3FYM) |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [kurulum](repolar/zhulinsen--daily_stock_analysis.md) | Takip listendeki hisseleri her gün LLM ile analiz edip sonucu Telegram, Slack ya da e-postaya gönderen açık kaynak sistem. | trend Short t2026-11-14-2 · [video](https://www.youtube.com/shorts/KgYp1bvutxc) |
 
 ## Katkı
 
