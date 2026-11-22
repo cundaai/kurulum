@@ -11,6 +11,14 @@
 
 ## Bölüme göre
 
+### Trend Short t2026-11-21-1 — debpalash/VoiceStudio · yakında — 22 Kas 09:00 · [kurulum](repolar/debpalash--voicestudio.md)
+
+*ElevenLabs'e boşuna para ödeme: VoiceStudio*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [kurulum](repolar/debpalash--voicestudio.md) | Ses klonlama, ses tasarımı, video dublajı, dikte ve transkripsiyonu kendi cihazında yerel modellerle yapan açık kaynak ses stüdyosu. |
+
 ### Trend Short t2026-11-14-2 — ZhuLinsen/daily_stock_analysis · [video](https://www.youtube.com/shorts/KgYp1bvutxc) · [kurulum](repolar/zhulinsen--daily_stock_analysis.md)
 
 *daily_stock_analysis: Hisse takip listeni her gün LLM ile özetler*
@@ -221,8 +229,9 @@
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [kurulum](repolar/copilotkit--openbot.md) | Her birine kendi tarayıcısı, dosyaları ve araçları verilen, her adımı onaya bağlanıp kaydedilen AI çalışma arkadaşları için kendi sunucunda çalışan açık kaynak çalışma alanı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | [kurulum](repolar/coreyhaines31--marketingskills.md) | Claude Code, Codex ve Cursor gibi agent'lara CRO, copywriting, SEO ve analytics bilgisi katan açık kaynak pazarlama skill koleksiyonu. | Günün Reposu g09 · [video](https://www.youtube.com/watch?v=0-jhhrzIuw8) |
 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | [kurulum](repolar/d4vinci--scrapling.md) | Hızlı HTTP, stealth tarayıcı, güçlü parser ve eşzamanlı spider'ları tek pakette toplayan Python web scraping çatısı. | [2026-W45 bölümü](bolumler/2026-W45.md) |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [kurulum](repolar/debpalash--voicestudio.md) | Ses klonlama, ses tasarımı, video dublajı, dikte ve transkripsiyonu kendi cihazında yerel modellerle yapan açık kaynak ses stüdyosu. | trend Short t2026-11-21-1 · henüz yüklenmedi |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [kurulum](repolar/debpalash--voicestudio.md) | Ses klonlama, ses tasarımı, video dublajı, dikte ve transkripsiyonu kendi cihazında yerel modellerle yapan açık kaynak ses stüdyosu. | trend Short t2026-11-21-1 · yakında — 22 Kas 09:00 |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | [kurulum](repolar/donchitos--claude-code-game-studios.md) | Claude Code'u oyun stüdyosuna çeviren şablon: bir cümlelik fikirden brief ve oynanabilir tarayıcı oyunu, 49 agent ve 75 skill. | [2026-W45 bölümü](bolumler/2026-W45.md) |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [kurulum](repolar/elementalsouls--claude-bughunter.md) | Claude Code'a bug bounty ve yetkili red team çalışmaları için 83 skill ve 15 slash command ekleyen açık kaynak skill paketi. | trend Short t2026-11-22-1 · henüz yüklenmedi |
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [kurulum](repolar/erkamyaman--rust-anything.md) | Uygulamanı parça parça Rust'a taşırken her parçayı özgün kodun kaydedilmiş davranışıyla karşılaştıran CLI ve MCP sunucusu. | trend Short t2026-11-20-1 · [video](https://www.youtube.com/shorts/iAcY8hOe-z4) |
 | [floci-io/floci](https://github.com/floci-io/floci) | [kurulum](repolar/floci-io--floci.md) | Hesap ve token istemeyen ücretsiz yerel AWS emülatörü; AWS SDK, CLI ve Terraform'u localhost:4566'ya yöneltirsin. | Günün Reposu g04 · [video](https://www.youtube.com/watch?v=s1W4tKSSr-A) |
 | [github/spec-kit](https://github.com/github/spec-kit) | [kurulum](repolar/github--spec-kit.md) | Coding agent'lara spec'ten plan, görev ve koda giden yapılı süreçler, şablonlar ve belgelenmiş çıktılar veren GitHub araç seti. | [2026-W45 bölümü](bolumler/2026-W45.md) |
