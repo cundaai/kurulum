@@ -148,4 +148,4 @@ README bundan öte adım adım bir örnek vermiyor; dublaj, ses tasarımı ve ot
 
 ---
 
-*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki trend Short t2026-11-21-1 videosu için hazırlandı (yakında — 22 Kas 09:00). Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
+*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki trend Short t2026-11-21-1 videosu için hazırlandı: https://www.youtube.com/shorts/4galXC2i6ns. Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
