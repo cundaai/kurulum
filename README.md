@@ -11,6 +11,39 @@
 
 ## Bölüme göre
 
+### Trend Short t2026-11-23-1 — RunanywhereAI/trnrt · yakında — 23 Kas 16:30 · [kurulum](repolar/runanywhereai--trnrt.md)
+
+*trnrt: Açık LLM'leri AWS Trainium'da OpenAI uyumlu API ile sunar*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [RunanywhereAI/trnrt](https://github.com/RunanywhereAI/trnrt) | [kurulum](repolar/runanywhereai--trnrt.md) | Büyük dil modellerini AWS Trainium üzerinde çalıştırıp OpenAI uyumlu API ile sunan açık kaynak inference motoru. |
+
+### Trend Short t2026-11-22-1 — elementalsouls/Claude-BugHunter · yakında — 23 Kas 14:00 · [kurulum](repolar/elementalsouls--claude-bughunter.md)
+
+*Claude-BugHunter: Claude Code'a bug bounty için 83 hazır skill ekler*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [kurulum](repolar/elementalsouls--claude-bughunter.md) | Claude Code'a bug bounty ve yetkili red team çalışmaları için 83 skill ve 15 slash command ekleyen açık kaynak skill paketi. |
+
+### 2026-W47 — 16–22 Kasım 2026 · yakında — 23 Kas 12:30 · [bölüm sayfası](bolumler/2026-W47.md)
+
+*GitHub'dan İlginç ve İşe Yarar 10 Repo \| 16–22 Kasım 2026*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [dream-num/univer](https://github.com/dream-num/univer) | [kurulum](repolar/dream-num--univer.md) | Kendi ürününün içine tablo ve belge düzenleyicisi gömmeni sağlayan, insanların ve agent'ların aynı içerikte çalıştığı açık kaynak Office SDK. |
+| 2 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | [kurulum](repolar/mvanhorn--last30days-skill.md) | Bir konuyu son 30 günde Reddit, X, YouTube, Hacker News, Polymarket ve web'de arayıp tek özet çıkaran agent skill'i. |
+| 3 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | [kurulum](repolar/kajisho5--ffmpeg-skill.md) | Coding agent'ına yerel FFmpeg ile video kurgulatan ve çıktıyı ölçüp denetleyen 42 araçlık skill ve MCP sunucusu. |
+| 4 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | [kurulum](repolar/ag-ui-protocol--ag-ui.md) | AI agent'ları kullanıcıya dönük uygulamalara tek bir olay akışıyla bağlayan açık protokol ve SDK'ları. |
+| 5 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | [kurulum](repolar/google-labs-code--stitch-skills.md) | Google Stitch MCP sunucusuyla çalışan, tasarım üretme ve tasarımı koda çevirme işlerini coding agent'lara öğreten skill ve plugin koleksiyonu. |
+| 6 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | [kurulum](repolar/tradermonty--claude-trading-skills.md) | Bireysel yatırımcının piyasa incelemesi, risk yönetimi, işlem planı ve günlük tutma sürecini düzenleyen Claude skill koleksiyonu; yatırım tavsiyesi değildir. |
+| 7 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | [kurulum](repolar/chromedevtools--chrome-devtools-mcp.md) | Coding agent'ının canlı bir Chrome tarayıcısını yönetip incelemesini sağlayan, Chrome DevTools'u MCP sunucusu ve CLI olarak sunan araç. |
+| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | [kurulum](repolar/affaan-m--ecc.md) | Claude Code, Codex ve öbür coding agent'lara planlama, test, inceleme, hafıza ve güvenlik taraması kazandıran hazır agent, skill ve hook paketi. |
+| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | [kurulum](repolar/jingyaogong--minimind.md) | Yaklaşık 64 milyon parametrelik küçük bir dil modelini sıfırdan, tek ekran kartında iki saatte eğitmeyi öğreten açık kaynak proje. |
+| 10 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | [kurulum](repolar/zhouxiaoka--autoclip.md) | Podcast, röportaj ve ders gibi uzun videoları bağlantıdan alıp altyazılı, kapaklı ve paylaşım metinli kısa videolara çeviren açık kaynak masaüstü aracı. |
+
 ### Trend Short t2026-11-21-1 — debpalash/VoiceStudio · [video](https://www.youtube.com/shorts/4galXC2i6ns) · [kurulum](repolar/debpalash--voicestudio.md)
 
 *ElevenLabs'e boşuna para ödeme: VoiceStudio*
@@ -236,7 +269,7 @@
 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | [kurulum](repolar/debpalash--voicestudio.md) | Ses klonlama, ses tasarımı, video dublajı, dikte ve transkripsiyonu kendi cihazında yerel modellerle yapan açık kaynak ses stüdyosu. | trend Short t2026-11-21-1 · [video](https://www.youtube.com/shorts/4galXC2i6ns) |
 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | [kurulum](repolar/donchitos--claude-code-game-studios.md) | Claude Code'u oyun stüdyosuna çeviren şablon: bir cümlelik fikirden brief ve oynanabilir tarayıcı oyunu, 49 agent ve 75 skill. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [dream-num/univer](https://github.com/dream-num/univer) | [kurulum](repolar/dream-num--univer.md) | Kendi ürününün içine tablo ve belge düzenleyicisi gömmeni sağlayan, insanların ve agent'ların aynı içerikte çalıştığı açık kaynak Office SDK. | [2026-W47 bölümü](bolumler/2026-W47.md) |
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [kurulum](repolar/elementalsouls--claude-bughunter.md) | Claude Code'a bug bounty ve yetkili red team çalışmaları için 83 skill ve 15 slash command ekleyen açık kaynak skill paketi. | trend Short t2026-11-22-1 · henüz yüklenmedi |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [kurulum](repolar/elementalsouls--claude-bughunter.md) | Claude Code'a bug bounty ve yetkili red team çalışmaları için 83 skill ve 15 slash command ekleyen açık kaynak skill paketi. | trend Short t2026-11-22-1 · yakında — 23 Kas 14:00 |
 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | [kurulum](repolar/erkamyaman--rust-anything.md) | Uygulamanı parça parça Rust'a taşırken her parçayı özgün kodun kaydedilmiş davranışıyla karşılaştıran CLI ve MCP sunucusu. | trend Short t2026-11-20-1 · [video](https://www.youtube.com/shorts/iAcY8hOe-z4) |
 | [floci-io/floci](https://github.com/floci-io/floci) | [kurulum](repolar/floci-io--floci.md) | Hesap ve token istemeyen ücretsiz yerel AWS emülatörü; AWS SDK, CLI ve Terraform'u localhost:4566'ya yöneltirsin. | Günün Reposu g04 · [video](https://www.youtube.com/watch?v=s1W4tKSSr-A) |
 | [github/spec-kit](https://github.com/github/spec-kit) | [kurulum](repolar/github--spec-kit.md) | Coding agent'lara spec'ten plan, görev ve koda giden yapılı süreçler, şablonlar ve belgelenmiş çıktılar veren GitHub araç seti. | [2026-W45 bölümü](bolumler/2026-W45.md) |
@@ -262,7 +295,7 @@
 | [openai/codex-security](https://github.com/openai/codex-security) | [kurulum](repolar/openai--codex-security.md) | Kodundaki güvenlik açıklarını bulan, doğrulayan ve düzelten OpenAI'ın CLI ve TypeScript SDK'sı. | trend Short t2026-11-14-1 · [video](https://www.youtube.com/shorts/DDA0Nped1yg) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | [kurulum](repolar/pingdotgg--t3code.md) | Bilgisayarındaki coding agent'ları (Claude Code, Codex, Cursor…) masaüstü, web ve telefondan tek arayüzle yöneten açık kaynak kontrol düzlemi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. | Günün Reposu g07 · [video](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) |
-| [RunanywhereAI/trnrt](https://github.com/RunanywhereAI/trnrt) | [kurulum](repolar/runanywhereai--trnrt.md) | Büyük dil modellerini AWS Trainium üzerinde çalıştırıp OpenAI uyumlu API ile sunan açık kaynak inference motoru. | trend Short t2026-11-23-1 · henüz yüklenmedi |
+| [RunanywhereAI/trnrt](https://github.com/RunanywhereAI/trnrt) | [kurulum](repolar/runanywhereai--trnrt.md) | Büyük dil modellerini AWS Trainium üzerinde çalıştırıp OpenAI uyumlu API ile sunan açık kaynak inference motoru. | trend Short t2026-11-23-1 · yakında — 23 Kas 16:30 |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [kurulum](repolar/sherlock-project--sherlock.md) | Bir kullanıcı adının 400'den fazla sosyal ağda hesabı olup olmadığını komut satırından tarayan açık kaynak OSINT aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [kurulum](repolar/thedotmack--claude-mem.md) | Coding agent'ın oturumlar arasında unuttuğu bağlamı kaydedip sıkıştıran ve sonraki oturuma geri veren kalıcı hafıza eklentisi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | [kurulum](repolar/tradermonty--claude-trading-skills.md) | Bireysel yatırımcının piyasa incelemesi, risk yönetimi, işlem planı ve günlük tutma sürecini düzenleyen Claude skill koleksiyonu; yatırım tavsiyesi değildir. | [2026-W47 bölümü](bolumler/2026-W47.md) |
