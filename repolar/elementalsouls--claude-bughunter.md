@@ -93,4 +93,4 @@ README'ye göre kurulumdan sonra Claude Code'u açıp neyi test ettiğini düz �
 
 ---
 
-*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki trend Short t2026-11-22-1 videosu için hazırlandı (yakında — 23 Kas 14:00). Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
+*Bu belge, [Haftanın Popüler Repoları](https://www.youtube.com/@haftaninpopulerrepolari) kanalındaki trend Short t2026-11-22-1 videosu için hazırlandı: https://www.youtube.com/shorts/f3WEs5AItdQ. Metin lisansı [CC BY 4.0](../LICENSE) (Cunda AI); README'den alınan komut parçaları kendi repolarının lisansına tabidir.*
