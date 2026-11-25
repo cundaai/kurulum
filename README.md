@@ -11,6 +11,22 @@
 
 ## Bölüme göre
 
+### Trend Short t2026-11-23-2 — cathrynlavery/diagram-design · [video](https://www.youtube.com/shorts/sdmSNREjIvM) · [kurulum](repolar/cathrynlavery--diagram-design.md)
+
+*diagram-design: Agent'ına tek dosyalık HTML ve SVG diyagram çizdirir*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [kurulum](repolar/cathrynlavery--diagram-design.md) | Coding agent'ına, markanın renk ve yazı tipleriyle tek dosyalık HTML + SVG diyagramlar çizdiren agent skill. |
+
+### Trend Short t2026-11-24-1 — yannicschuller/flowplan · [video](https://www.youtube.com/shorts/dRrNLuDq7yQ) · [kurulum](repolar/yannicschuller--flowplan.md)
+
+*Notion'a boşuna para ödeme: flowplan*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) | [kurulum](repolar/yannicschuller--flowplan.md) | Doküman, veritabanı, whiteboard ve günlüğü tek sayfa ağacında toplayan, kendi sunucunda tek container ile çalışan açık kaynak ekip çalışma alanı. |
+
 ### Trend Short t2026-11-23-1 — RunanywhereAI/trnrt · [video](https://www.youtube.com/shorts/dHdzS5edkoc) · [kurulum](repolar/runanywhereai--trnrt.md)
 
 *trnrt: Açık LLM'leri AWS Trainium'da OpenAI uyumlu API ile sunar*
@@ -260,7 +276,7 @@
 | [BenchUp3D/benchup](https://github.com/BenchUp3D/benchup) | [kurulum](repolar/benchup3d--benchup.md) | Ahşap işleri ve mobilya tasarımı için Rust ile yazılmış, masaüstünde ve tarayıcıda çalışan ücretsiz, açık kaynak 3D modelleme uygulaması. | trend Short t2026-11-17-1 · [video](https://www.youtube.com/shorts/FeND7E-NqBs) |
 | [blader/humanizer](https://github.com/blader/humanizer) | [kurulum](repolar/blader--humanizer.md) | Yapay zekâ yazısının izlerini (26 kalıp) anlamı değiştirmeden silen, Wikipedia'nın rehberine dayanan agent skill'i. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | [kurulum](repolar/bradautomates--claude-video.md) | Claude Code ve Codex'e video izletir: URL ya da dosyadan zaman damgalı kareler ve transkript çıkaran /watch skill'i. | Günün Reposu g05 · [video](https://www.youtube.com/watch?v=3Am4HNJmWA0) |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [kurulum](repolar/cathrynlavery--diagram-design.md) | Coding agent'ına, markanın renk ve yazı tipleriyle tek dosyalık HTML + SVG diyagramlar çizdiren agent skill. | trend Short t2026-11-23-2 · henüz yüklenmedi |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | [kurulum](repolar/cathrynlavery--diagram-design.md) | Coding agent'ına, markanın renk ve yazı tipleriyle tek dosyalık HTML + SVG diyagramlar çizdiren agent skill. | trend Short t2026-11-23-2 · [video](https://www.youtube.com/shorts/sdmSNREjIvM) |
 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | [kurulum](repolar/chatwoot--chatwoot.md) | Intercom ve Zendesk'e açık kaynak alternatif: canlı sohbet, e-posta ve WhatsApp'ı tek gelen kutusunda toplayan destek masası. | Günün Reposu g06 · [video](https://www.youtube.com/watch?v=mr15xc16DgQ) |
 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | [kurulum](repolar/chromedevtools--chrome-devtools-mcp.md) | Coding agent'ının canlı bir Chrome tarayıcısını yönetip incelemesini sağlayan, Chrome DevTools'u MCP sunucusu ve CLI olarak sunan araç. | [2026-W47 bölümü](bolumler/2026-W47.md) |
 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | [kurulum](repolar/copilotkit--openbot.md) | Her birine kendi tarayıcısı, dosyaları ve araçları verilen, her adımı onaya bağlanıp kaydedilen AI çalışma arkadaşları için kendi sunucunda çalışan açık kaynak çalışma alanı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
@@ -295,6 +311,7 @@
 | [openai/codex-security](https://github.com/openai/codex-security) | [kurulum](repolar/openai--codex-security.md) | Kodundaki güvenlik açıklarını bulan, doğrulayan ve düzelten OpenAI'ın CLI ve TypeScript SDK'sı. | trend Short t2026-11-14-1 · [video](https://www.youtube.com/shorts/DDA0Nped1yg) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | [kurulum](repolar/pingdotgg--t3code.md) | Bilgisayarındaki coding agent'ları (Claude Code, Codex, Cursor…) masaüstü, web ve telefondan tek arayüzle yöneten açık kaynak kontrol düzlemi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. | Günün Reposu g07 · [video](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) |
+| [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | [kurulum](repolar/routinemiku--apkstart.md) | Windows'ta APK dosyasına çift tıklayınca Android uygulamasını kuran, ayrı pencerede ve kendi masaüstü ikonuyla çalıştıran açık kaynak araç. | trend Short t2026-11-25-1 · henüz yüklenmedi |
 | [RunanywhereAI/trnrt](https://github.com/RunanywhereAI/trnrt) | [kurulum](repolar/runanywhereai--trnrt.md) | Büyük dil modellerini AWS Trainium üzerinde çalıştırıp OpenAI uyumlu API ile sunan açık kaynak inference motoru. | trend Short t2026-11-23-1 · [video](https://www.youtube.com/shorts/dHdzS5edkoc) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [kurulum](repolar/sherlock-project--sherlock.md) | Bir kullanıcı adının 400'den fazla sosyal ağda hesabı olup olmadığını komut satırından tarayan açık kaynak OSINT aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | [kurulum](repolar/thedotmack--claude-mem.md) | Coding agent'ın oturumlar arasında unuttuğu bağlamı kaydedip sıkıştıran ve sonraki oturuma geri veren kalıcı hafıza eklentisi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
@@ -302,7 +319,7 @@
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | [kurulum](repolar/vercel-labs--agent-browser.md) | AI agent'lara sayfaları açıp erişilebilirlik ağacı olarak okuyan ve öğelere tıklayan, komut komut sürülen bir tarayıcı veren Rust CLI. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | [kurulum](repolar/vercel-labs--agent-desktop.md) | AI agent'ların masaüstü uygulamalarını ekran görüntüsü yerine işletim sisteminin erişilebilirlik ağacından okuyup kullanmasını sağlayan computer use CLI'ı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
 | [we-promise/sure](https://github.com/we-promise/sure) | [kurulum](repolar/we-promise--sure.md) | Maybe Finance'in topluluk çatalı olan, Docker ile kendi sunucunda barındırabileceğin açık kaynak kişisel finans uygulaması. | Günün Reposu g10 · [video](https://www.youtube.com/watch?v=7z32awD3FYM) |
-| [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) | [kurulum](repolar/yannicschuller--flowplan.md) | Doküman, veritabanı, whiteboard ve günlüğü tek sayfa ağacında toplayan, kendi sunucunda tek container ile çalışan açık kaynak ekip çalışma alanı. | trend Short t2026-11-24-1 · henüz yüklenmedi |
+| [yannicschuller/flowplan](https://github.com/yannicschuller/flowplan) | [kurulum](repolar/yannicschuller--flowplan.md) | Doküman, veritabanı, whiteboard ve günlüğü tek sayfa ağacında toplayan, kendi sunucunda tek container ile çalışan açık kaynak ekip çalışma alanı. | trend Short t2026-11-24-1 · [video](https://www.youtube.com/shorts/dRrNLuDq7yQ) |
 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | [kurulum](repolar/zhouxiaoka--autoclip.md) | Podcast, röportaj ve ders gibi uzun videoları bağlantıdan alıp altyazılı, kapaklı ve paylaşım metinli kısa videolara çeviren açık kaynak masaüstü aracı. | [2026-W47 bölümü](bolumler/2026-W47.md) |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [kurulum](repolar/zhulinsen--daily_stock_analysis.md) | Takip listendeki hisseleri her gün LLM ile analiz edip sonucu Telegram, Slack ya da e-postaya gönderen açık kaynak sistem. | trend Short t2026-11-14-2 · [video](https://www.youtube.com/shorts/KgYp1bvutxc) |
 
