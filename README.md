@@ -11,6 +11,23 @@
 
 ## Bölüme göre
 
+### 2026-W48-2 — 23–25 Kasım 2026 (Çarşamba bölümü) · yakında — 25 Kas 12:30 · [bölüm sayfası](bolumler/2026-W48-2.md)
+
+*GitHub'dan İlginç ve İşe Yarar 10 Repo \| 23–25 Kasım 2026*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | [kurulum](repolar/xiaoyouchr--ghost-downloader-3.md) | HTTP, torrent, FTP, M3U8, YouTube ve Bilibili indirmelerini tek uygulamada toplayan, Windows, macOS, Linux ve Android'de çalışan açık kaynak indirme yöneticisi. |
+| 2 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | [kurulum](repolar/firecrawl--firecrawl.md) | Web sitelerini AI agent'lar için temiz markdown'a çeviren; kendi bilgisayarında tek dosya olarak, bulutta ya da kendi sunucunda çalışan scrape, crawl ve arama aracı. |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | [kurulum](repolar/obra--superpowers.md) | Coding agent'a önce tasarım, sonra plan, sonra testle geliştirme yaptıran, kendiliğinden devreye giren skill'lerden oluşan yazılım geliştirme yöntemi. |
+| 4 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | [kurulum](repolar/hkuds--cli-anything.md) | Herhangi bir yazılımı agent'ların kullanabileceği bir CLI'a çeviren plugin ve hazır CLI'ları kuran CLI-Hub paket yöneticisi. |
+| 5 | [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | [kurulum](repolar/tracer-cloud--opensre.md) | Başarısız CI çalıştırmasını okuyup nedenini bulan ve incelemen için düzeltmeyi gönderen açık kaynak CLI agent. |
+| 6 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [kurulum](repolar/openvinotoolkit--openvino.md) | Derin öğrenme modellerini optimize edip CPU, GPU ve NPU üzerinde hızlı çalıştıran açık kaynak inference araç takımı. |
+| 7 | [nginx/nginx](https://github.com/nginx/nginx) | [kurulum](repolar/nginx--nginx.md) | Web server, reverse proxy, load balancer, API gateway ve content cache olarak çalışan açık kaynak NGINX'in resmî kaynak kod reposu. |
+| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | [kurulum](repolar/dietrichgebert--ponytail.md) | AI coding agent'ına "yalnız gerekeni yaz" kuralını öğreten, daha az kodla aynı işi yaptıran skill ve plugin. |
+| 9 | [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) | [kurulum](repolar/flashml-org--freevideo.md) | MiniMax H3 video modelini 8 GB VRAM'li ekran kartında, kendi bilgisayarında çalıştıran ComfyUI plugin'i ve tek tıkla kurulum aracı. |
+| 10 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | [kurulum](repolar/rustdesk--rustdesk.md) | Kendi sunucunda barındırabildiğin, Rust ile yazılmış açık kaynak uzak masaüstü uygulaması; TeamViewer alternatifi. |
+
 ### Trend Short t2026-11-23-2 — cathrynlavery/diagram-design · [video](https://www.youtube.com/shorts/sdmSNREjIvM) · [kurulum](repolar/cathrynlavery--diagram-design.md)
 
 *diagram-design: Agent'ına tek dosyalık HTML ve SVG diyagram çizdirir*
