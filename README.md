@@ -11,7 +11,7 @@
 
 ## Bölüme göre
 
-### 2026-W48-2 — 23–25 Kasım 2026 (Çarşamba bölümü) · yakında — 25 Kas 12:30 · [bölüm sayfası](bolumler/2026-W48-2.md)
+### 2026-W48-2 — 23–25 Kasım 2026 (Çarşamba bölümü) · [video](https://www.youtube.com/watch?v=2wDhRoLOWh8) · [bölüm sayfası](bolumler/2026-W48-2.md)
 
 *GitHub'dan İlginç ve İşe Yarar 10 Repo \| 23–25 Kasım 2026*
 
@@ -27,6 +27,14 @@
 | 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | [kurulum](repolar/dietrichgebert--ponytail.md) | AI coding agent'ına "yalnız gerekeni yaz" kuralını öğreten, daha az kodla aynı işi yaptıran skill ve plugin. |
 | 9 | [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) | [kurulum](repolar/flashml-org--freevideo.md) | MiniMax H3 video modelini 8 GB VRAM'li ekran kartında, kendi bilgisayarında çalıştıran ComfyUI plugin'i ve tek tıkla kurulum aracı. |
 | 10 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | [kurulum](repolar/rustdesk--rustdesk.md) | Kendi sunucunda barındırabildiğin, Rust ile yazılmış açık kaynak uzak masaüstü uygulaması; TeamViewer alternatifi. |
+
+### Trend Short t2026-11-25-1 — RoutineMiku/apkstart · [video](https://www.youtube.com/shorts/y95HvnlfryA) · [kurulum](repolar/routinemiku--apkstart.md)
+
+*apkstart: APK'ya çift tıkla, Android uygulaması Windows'ta açılsın*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | [kurulum](repolar/routinemiku--apkstart.md) | Windows'ta APK dosyasına çift tıklayınca Android uygulamasını kuran, ayrı pencerede ve kendi masaüstü ikonuyla çalıştıran açık kaynak araç. |
 
 ### Trend Short t2026-11-23-2 — cathrynlavery/diagram-design · [video](https://www.youtube.com/shorts/sdmSNREjIvM) · [kurulum](repolar/cathrynlavery--diagram-design.md)
 
@@ -323,6 +331,7 @@
 | [libracoder/kiri](https://github.com/libracoder/kiri) | [kurulum](repolar/libracoder--kiri.md) | macOS, Windows ve Linux için Rust ile yazılmış, Docker CLI ve Compose ile çalışan küçük ve hızlı bir container runtime. | trend Short t2026-11-19-1 · [video](https://www.youtube.com/shorts/nR3skSXZcxg) |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [kurulum](repolar/lightpanda-io--browser.md) | Zig ile sıfırdan yazılmış, Chromium'dan çok daha hafif, AI agent'ları ve web otomasyonu için tasarlanmış headless browser. | Günün Reposu g08 · [video](https://www.youtube.com/watch?v=sY2kfpbK-p8) |
 | [localsend/localsend](https://github.com/localsend/localsend) | [kurulum](repolar/localsend--localsend.md) | Aynı yerel ağdaki cihazlar arasında internet ve sunucu olmadan dosya ve mesaj paylaşan açık kaynak AirDrop alternatifi. | Günün Reposu g02 · [video](https://www.youtube.com/watch?v=1IylBcEQ17w) |
+| [marclou/mailcheap](https://github.com/marclou/mailcheap) | [kurulum](repolar/marclou--mailcheap.md) | Bülten yazıp listene gönderen ve web'de yayımlayan, kendi sunucuna kurup kendi Amazon SES ya da PostShiba hesabınla çalıştırabildiğin açık kaynak bülten uygulaması. | trend Short t2026-11-26-1 · henüz yüklenmedi |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | [kurulum](repolar/mattpocock--skills.md) | Matt Pocock'un Claude Code, Codex ve benzeri coding agent'lar için günlük mühendislik skill paketi (grill-me, tdd, triage). | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [meta/astryx](https://github.com/meta/astryx) | [kurulum](repolar/meta--astryx.md) | Meta'nın React 19 ve StyleX üzerine kurulu, 150'den fazla bileşen, tema ve CLI ile gelen, agent'lara hazır açık kaynak design system'ı. | trend Short t2026-11-12-1 · [video](https://www.youtube.com/shorts/UuXvMFLqKHI) |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [kurulum](repolar/milind-soni--openmausbot.md) | Claude, Codex ve Grok CLI'larını sohbet uygulamasında bot kadrosuna çeviren, yerel çalışan açık kaynak Grok Bot alternatifi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
@@ -335,7 +344,7 @@
 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [kurulum](repolar/openvinotoolkit--openvino.md) | Derin öğrenme modellerini optimize edip CPU, GPU ve NPU üzerinde hızlı çalıştıran açık kaynak inference araç takımı. | [2026-W48-2 bölümü](bolumler/2026-W48-2.md) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | [kurulum](repolar/pingdotgg--t3code.md) | Bilgisayarındaki coding agent'ları (Claude Code, Codex, Cursor…) masaüstü, web ve telefondan tek arayüzle yöneten açık kaynak kontrol düzlemi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. | Günün Reposu g07 · [video](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) |
-| [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | [kurulum](repolar/routinemiku--apkstart.md) | Windows'ta APK dosyasına çift tıklayınca Android uygulamasını kuran, ayrı pencerede ve kendi masaüstü ikonuyla çalıştıran açık kaynak araç. | trend Short t2026-11-25-1 · henüz yüklenmedi |
+| [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) | [kurulum](repolar/routinemiku--apkstart.md) | Windows'ta APK dosyasına çift tıklayınca Android uygulamasını kuran, ayrı pencerede ve kendi masaüstü ikonuyla çalıştıran açık kaynak araç. | trend Short t2026-11-25-1 · [video](https://www.youtube.com/shorts/y95HvnlfryA) |
 | [RunanywhereAI/trnrt](https://github.com/RunanywhereAI/trnrt) | [kurulum](repolar/runanywhereai--trnrt.md) | Büyük dil modellerini AWS Trainium üzerinde çalıştırıp OpenAI uyumlu API ile sunan açık kaynak inference motoru. | trend Short t2026-11-23-1 · [video](https://www.youtube.com/shorts/dHdzS5edkoc) |
 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | [kurulum](repolar/rustdesk--rustdesk.md) | Kendi sunucunda barındırabildiğin, Rust ile yazılmış açık kaynak uzak masaüstü uygulaması; TeamViewer alternatifi. | [2026-W48-2 bölümü](bolumler/2026-W48-2.md) |
 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | [kurulum](repolar/sherlock-project--sherlock.md) | Bir kullanıcı adının 400'den fazla sosyal ağda hesabı olup olmadığını komut satırından tarayan açık kaynak OSINT aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
