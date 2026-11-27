@@ -11,6 +11,14 @@
 
 ## Bölüme göre
 
+### Trend Short t2026-11-26-1 — marclou/mailcheap · [video](https://www.youtube.com/shorts/2ZupLXdnIhk) · [kurulum](repolar/marclou--mailcheap.md)
+
+*Mailchimp'e boşuna para ödeme: mailcheap*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | [kurulum](repolar/marclou--mailcheap.md) | Bülten yazıp listene gönderen ve web'de yayımlayan, kendi sunucuna kurup kendi Amazon SES ya da PostShiba hesabınla çalıştırabildiğin açık kaynak bülten uygulaması. |
+
 ### 2026-W48-2 — 23–25 Kasım 2026 (Çarşamba bölümü) · [video](https://www.youtube.com/watch?v=2wDhRoLOWh8) · [bölüm sayfası](bolumler/2026-W48-2.md)
 
 *GitHub'dan İlginç ve İşe Yarar 10 Repo \| 23–25 Kasım 2026*
@@ -331,7 +339,7 @@
 | [libracoder/kiri](https://github.com/libracoder/kiri) | [kurulum](repolar/libracoder--kiri.md) | macOS, Windows ve Linux için Rust ile yazılmış, Docker CLI ve Compose ile çalışan küçük ve hızlı bir container runtime. | trend Short t2026-11-19-1 · [video](https://www.youtube.com/shorts/nR3skSXZcxg) |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | [kurulum](repolar/lightpanda-io--browser.md) | Zig ile sıfırdan yazılmış, Chromium'dan çok daha hafif, AI agent'ları ve web otomasyonu için tasarlanmış headless browser. | Günün Reposu g08 · [video](https://www.youtube.com/watch?v=sY2kfpbK-p8) |
 | [localsend/localsend](https://github.com/localsend/localsend) | [kurulum](repolar/localsend--localsend.md) | Aynı yerel ağdaki cihazlar arasında internet ve sunucu olmadan dosya ve mesaj paylaşan açık kaynak AirDrop alternatifi. | Günün Reposu g02 · [video](https://www.youtube.com/watch?v=1IylBcEQ17w) |
-| [marclou/mailcheap](https://github.com/marclou/mailcheap) | [kurulum](repolar/marclou--mailcheap.md) | Bülten yazıp listene gönderen ve web'de yayımlayan, kendi sunucuna kurup kendi Amazon SES ya da PostShiba hesabınla çalıştırabildiğin açık kaynak bülten uygulaması. | trend Short t2026-11-26-1 · henüz yüklenmedi |
+| [marclou/mailcheap](https://github.com/marclou/mailcheap) | [kurulum](repolar/marclou--mailcheap.md) | Bülten yazıp listene gönderen ve web'de yayımlayan, kendi sunucuna kurup kendi Amazon SES ya da PostShiba hesabınla çalıştırabildiğin açık kaynak bülten uygulaması. | trend Short t2026-11-26-1 · [video](https://www.youtube.com/shorts/2ZupLXdnIhk) |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | [kurulum](repolar/mattpocock--skills.md) | Matt Pocock'un Claude Code, Codex ve benzeri coding agent'lar için günlük mühendislik skill paketi (grill-me, tdd, triage). | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [meta/astryx](https://github.com/meta/astryx) | [kurulum](repolar/meta--astryx.md) | Meta'nın React 19 ve StyleX üzerine kurulu, 150'den fazla bileşen, tema ve CLI ile gelen, agent'lara hazır açık kaynak design system'ı. | trend Short t2026-11-12-1 · [video](https://www.youtube.com/shorts/UuXvMFLqKHI) |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [kurulum](repolar/milind-soni--openmausbot.md) | Claude, Codex ve Grok CLI'larını sohbet uygulamasında bot kadrosuna çeviren, yerel çalışan açık kaynak Grok Bot alternatifi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
@@ -341,6 +349,7 @@
 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [kurulum](repolar/nvidia--auto-ontology.md) | NVIDIA'nın kurumsal metadata'dan ontoloji üretip agent'lara MCP, CLI ve API ile doğrulanmış text-to-SQL sunan Python çatısı. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [obra/superpowers](https://github.com/obra/superpowers) | [kurulum](repolar/obra--superpowers.md) | Coding agent'a önce tasarım, sonra plan, sonra testle geliştirme yaptıran, kendiliğinden devreye giren skill'lerden oluşan yazılım geliştirme yöntemi. | [2026-W48-2 bölümü](bolumler/2026-W48-2.md) |
 | [openai/codex-security](https://github.com/openai/codex-security) | [kurulum](repolar/openai--codex-security.md) | Kodundaki güvenlik açıklarını bulan, doğrulayan ve düzelten OpenAI'ın CLI ve TypeScript SDK'sı. | trend Short t2026-11-14-1 · [video](https://www.youtube.com/shorts/DDA0Nped1yg) |
+| [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | [kurulum](repolar/openbmb--minicpm-ocr.md) | İngilizce ve Çince belgeleri, PDF'leri ve görselleri Markdown ya da JSON'a çeviren, sonucun güvenilmez bölgelerini ayrı bir modelle puanlayan açık kaynak OCR model ailesi. | trend Short t2026-11-27-1 · henüz yüklenmedi |
 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [kurulum](repolar/openvinotoolkit--openvino.md) | Derin öğrenme modellerini optimize edip CPU, GPU ve NPU üzerinde hızlı çalıştıran açık kaynak inference araç takımı. | [2026-W48-2 bölümü](bolumler/2026-W48-2.md) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | [kurulum](repolar/pingdotgg--t3code.md) | Bilgisayarındaki coding agent'ları (Claude Code, Codex, Cursor…) masaüstü, web ve telefondan tek arayüzle yöneten açık kaynak kontrol düzlemi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. | Günün Reposu g07 · [video](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) |
