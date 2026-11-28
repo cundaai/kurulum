@@ -11,7 +11,7 @@
 
 ## Bölüme göre
 
-### 2026-W48-3 — 25–27 Kasım 2026 (Cuma bölümü) · yakında — 27 Kas 12:30 · [bölüm sayfası](bolumler/2026-W48-3.md)
+### 2026-W48-3 — 25–27 Kasım 2026 (Cuma bölümü) · [video](https://www.youtube.com/watch?v=AYiNLSGngiY) · [bölüm sayfası](bolumler/2026-W48-3.md)
 
 *GitHub'dan İlginç ve İşe Yarar 10 Repo \| 25–27 Kasım 2026*
 
@@ -27,6 +27,14 @@
 | 8 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | [kurulum](repolar/getarcaneapp--arcane.md) | Docker container'larını, image'larını ve Compose projelerini tarayıcıdan yöneten, kendi sunucuna kurduğun açık kaynak web arayüzü. |
 | 9 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | [kurulum](repolar/fission-ai--openspec.md) | AI coding asistanıyla kod yazmadan önce ne yapılacağını sade Markdown spec'lerde anlaştıran hafif Spec-Driven Development aracı. |
 | 10 | [hieunc229/mailflare](https://github.com/hieunc229/mailflare) | [kurulum](repolar/hieunc229--mailflare.md) | Kendi alan adınla e-posta, takvim, randevu, Drive ve AI agent'ları sunan, Cloudflare'de ya da tek Docker container'ında kendin barındırdığın Google Workspace alternatifi. |
+
+### Trend Short t2026-11-27-1 — OpenBMB/MiniCPM-OCR · [video](https://www.youtube.com/shorts/n2MOceNOsYs) · [kurulum](repolar/openbmb--minicpm-ocr.md)
+
+*MiniCPM-OCR: Belge ve PDF'i Markdown'a çevirir, şüpheli yeri gösterir*
+
+| # | Repo | Belge | Özet |
+|---|---|---|---|
+| 1 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | [kurulum](repolar/openbmb--minicpm-ocr.md) | İngilizce ve Çince belgeleri, PDF'leri ve görselleri Markdown ya da JSON'a çeviren, sonucun güvenilmez bölgelerini ayrı bir modelle puanlayan açık kaynak OCR model ailesi. |
 
 ### Trend Short t2026-11-26-1 — marclou/mailcheap · [video](https://www.youtube.com/shorts/2ZupLXdnIhk) · [kurulum](repolar/marclou--mailcheap.md)
 
@@ -321,6 +329,7 @@
 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | [kurulum](repolar/ag-ui-protocol--ag-ui.md) | AI agent'ları kullanıcıya dönük uygulamalara tek bir olay akışıyla bağlayan açık protokol ve SDK'ları. | [2026-W47 bölümü](bolumler/2026-W47.md) |
 | [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) | [kurulum](repolar/agentes-chat--agentes-chat.md) | Ekibin ve AI agent'ların aynı kanallarda ve DM'lerde çalıştığı, kendi sunucunda barındırılan açık kaynak ekip sohbeti. | trend Short t2026-11-16-1 · [video](https://www.youtube.com/shorts/ZFgXeTUZuO0) |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | [kurulum](repolar/alibaba--open-code-review.md) | Git diff'lerini LLM agent'ıyla inceleyip satır satır kod incelemesi yorumu üreten, Alibaba'nın açık kaynak code review CLI aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | [kurulum](repolar/altic-dev--fluidvoice.md) | Mac'te konuştuğunu kullandığın uygulamalara yazan, ses tanımayı cihazda çalıştıran ücretsiz ve açık kaynak dikte uygulaması. | trend Short t2026-11-28-1 · henüz yüklenmedi |
 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | [kurulum](repolar/anomalyco--opencode.md) | Terminalde, masaüstünde çalışan, plan ve build kipleri olan açık kaynak AI coding agent. | [2026-W48-3 bölümü](bolumler/2026-W48-3.md) |
 | [aws/aws-emulator](https://github.com/aws/aws-emulator) | [kurulum](repolar/aws--aws-emulator.md) | AWS API'lerini kendi bilgisayarında, sunucunda ya da CI'da taklit eden, AWS hesabı istemeden kodunu test etmeni sağlayan yerel emülatör. | trend Short t2026-11-18-1 · [video](https://www.youtube.com/shorts/1crcTbNLXuY) |
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [kurulum](repolar/backnotprop--plannotator.md) | Coding agent'ların planlarını, dosyalarını ve kod değişikliklerini tarayıcıda işaretleyip yorumlarını tek tıkla agent'a geri gönderen yerel inceleme aracı. | [2026-W46 bölümü](bolumler/2026-W46.md) |
@@ -374,7 +383,7 @@
 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | [kurulum](repolar/nvidia--auto-ontology.md) | NVIDIA'nın kurumsal metadata'dan ontoloji üretip agent'lara MCP, CLI ve API ile doğrulanmış text-to-SQL sunan Python çatısı. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [obra/superpowers](https://github.com/obra/superpowers) | [kurulum](repolar/obra--superpowers.md) | Coding agent'a önce tasarım, sonra plan, sonra testle geliştirme yaptıran, kendiliğinden devreye giren skill'lerden oluşan yazılım geliştirme yöntemi. | [2026-W48-2 bölümü](bolumler/2026-W48-2.md) |
 | [openai/codex-security](https://github.com/openai/codex-security) | [kurulum](repolar/openai--codex-security.md) | Kodundaki güvenlik açıklarını bulan, doğrulayan ve düzelten OpenAI'ın CLI ve TypeScript SDK'sı. | trend Short t2026-11-14-1 · [video](https://www.youtube.com/shorts/DDA0Nped1yg) |
-| [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | [kurulum](repolar/openbmb--minicpm-ocr.md) | İngilizce ve Çince belgeleri, PDF'leri ve görselleri Markdown ya da JSON'a çeviren, sonucun güvenilmez bölgelerini ayrı bir modelle puanlayan açık kaynak OCR model ailesi. | trend Short t2026-11-27-1 · henüz yüklenmedi |
+| [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | [kurulum](repolar/openbmb--minicpm-ocr.md) | İngilizce ve Çince belgeleri, PDF'leri ve görselleri Markdown ya da JSON'a çeviren, sonucun güvenilmez bölgelerini ayrı bir modelle puanlayan açık kaynak OCR model ailesi. | trend Short t2026-11-27-1 · [video](https://www.youtube.com/shorts/n2MOceNOsYs) |
 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | [kurulum](repolar/openvinotoolkit--openvino.md) | Derin öğrenme modellerini optimize edip CPU, GPU ve NPU üzerinde hızlı çalıştıran açık kaynak inference araç takımı. | [2026-W48-2 bölümü](bolumler/2026-W48-2.md) |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | [kurulum](repolar/pingdotgg--t3code.md) | Bilgisayarındaki coding agent'ları (Claude Code, Codex, Cursor…) masaüstü, web ve telefondan tek arayüzle yöneten açık kaynak kontrol düzlemi. | [2026-W45 bölümü](bolumler/2026-W45.md) |
 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | [kurulum](repolar/ranxianglei--billion-context.md) | Coding agent ile model API'si arasına giren, konuşma geçmişini özetleyerek sıkıştıran ve günlerce süren tek oturuma izin veren proxy. | Günün Reposu g07 · [video](https://www.youtube.com/watch?v=ORr4Kmvx4dQ) |
